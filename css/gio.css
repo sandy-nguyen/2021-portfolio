@@ -1,0 +1,6984 @@
+/* screen - gio */
+
+.gio {
+  background-color: var(--white);
+  height: 24465px;
+  position: relative;
+  width: 1440px;
+}
+
+.gio .image-1 {
+  cursor: pointer;
+  height: 90px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 65px;
+}
+
+.gio .group-1040 {
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 903px;
+  position: absolute;
+  top: 154px;
+  width: 429px;
+}
+
+.gio .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-right: 37px;
+  min-width: 119px;
+}
+
+.gio .overlap-group2-3 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 33px;
+}
+
+.gio .work {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  min-width: 43px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.gio .work:hover {
+  transform: scale(0.9); 
+}
+
+.gio .overlap-group1 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 29px;
+}
+
+.gio .about {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  min-width: 51px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.gio .about:hover {
+  transform: scale(0.9); 
+}
+
+.gio .group-993 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-right: -2px;
+  min-width: 119px;
+}
+
+.gio .overlap-group {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 12px;
+}
+
+.gio .resume {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.gio .resume:hover {
+  transform: scale(0.9); 
+}
+
+.gio .the-asd-digital {
+  left: 154px;
+  letter-spacing: 1.50px;
+  line-height: 62.5px;
+  position: absolute;
+  top: 468px;
+  white-space: nowrap;
+}
+
+.gio .coordinator {
+  left: 154px;
+  letter-spacing: 1.50px;
+  line-height: 62.5px;
+  position: absolute;
+  top: 537px;
+  white-space: nowrap;
+}
+
+.gio .gio-1 {
+  color: var(--portage-2);
+  font-family: var(--font-family-poppins);
+  font-size: 50px;
+  font-weight: 700;
+  left: 154px;
+  letter-spacing: 1.50px;
+  line-height: 50px;
+  position: absolute;
+  top: 612px;
+  white-space: nowrap;
+}
+
+.gio .overlap-group18 {
+  height: 923px;
+  left: 154px;
+  position: absolute;
+  top: 333px;
+  width: 1286px;
+}
+
+.gio .text-576 {
+  left: 0;
+  letter-spacing: 0.54px;
+  line-height: 31.5px;
+  position: absolute;
+  top: 366px;
+}
+
+.gio .group-1118-1 {
+  height: 923px;
+  left: 460px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 826px;
+}
+
+.gio .x100-2 {
+  height: 106px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 816px;
+  width: 106px;
+}
+
+.gio .project-overview {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 1944px;
+  white-space: nowrap;
+}
+
+.gio .vector-265 {
+  height: 2px;
+  left: 158px;
+  position: absolute;
+  top: 1996px;
+  width: 1177px;
+}
+
+.gio .group-1085 {
+  height: 433px;
+  left: 126px;
+  position: absolute;
+  top: 2041px;
+  width: 1205px;
+}
+
+.gio .start-date {
+  left: 965px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2520px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio .name {
+  left: 944px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2547px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio .tools {
+  left: 966px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2609px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio .figma-miro {
+  left: 945px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2636px;
+  width: 116px;
+}
+
+.gio .edit {
+  height: 16px;
+  left: 943px;
+  position: absolute;
+  top: 2609px;
+  width: 16px;
+}
+
+.gio .duration {
+  left: 1150px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2520px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio .address {
+  left: 1129px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2547px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio .hourglass {
+  height: 16px;
+  left: 1129px;
+  position: absolute;
+  top: 2520px;
+  width: 16px;
+}
+
+.gio .team {
+  left: 1150px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2609px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio .text-577 {
+  cursor: pointer;
+  left: 1129px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2636px;
+  width: 169px;
+}
+
+.gio .span {
+  letter-spacing: 0.08px;
+}
+
+.gio .user {
+  height: 16px;
+  left: 1129px;
+  position: absolute;
+  top: 2609px;
+  width: 16px;
+}
+
+.gio .calendar-alt {
+  height: 17px;
+  left: 943px;
+  position: absolute;
+  top: 2520px;
+  width: 16px;
+}
+
+.gio .text-578 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 2514px;
+  white-space: nowrap;
+}
+
+.gio .text-579 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2566px;
+  width: 718px;
+}
+
+.gio .text-580 {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 1363px;
+  white-space: nowrap;
+}
+
+.gio .list-1 {
+  height: 46px;
+  left: 1143px;
+  object-fit: cover;
+  position: absolute;
+  top: 1469px;
+  width: 38px;
+}
+
+.gio .vector {
+  height: 54px;
+  left: 589px;
+  position: absolute;
+  top: 1465px;
+  width: 56px;
+}
+
+.gio .text-581 {
+  left: 201px;
+  letter-spacing: 0.60px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 1562px;
+}
+
+.gio .noun-autism-aw-1130071000000 {
+  height: 60px;
+  left: 268px;
+  position: absolute;
+  top: 1462px;
+  width: 60px;
+}
+
+.gio .text-582 {
+  left: 201px;
+  letter-spacing: 0.48px;
+  line-height: 20px;
+  position: absolute;
+  top: 1704px;
+  width: 271px;
+}
+
+.gio .text-583 {
+  left: 472px;
+  letter-spacing: 0.60px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 1562px;
+  width: 263px;
+}
+
+.gio .text-584 {
+  left: 500px;
+  letter-spacing: 0.48px;
+  line-height: 20px;
+  position: absolute;
+  top: 1704px;
+  width: 235px;
+}
+
+.gio .text-585 {
+  left: 776px;
+  letter-spacing: 0.48px;
+  line-height: 20px;
+  position: absolute;
+  top: 1704px;
+  width: 235px;
+}
+
+.gio .text-586 {
+  left: 1042px;
+  letter-spacing: 0.60px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 1562px;
+  width: 249px;
+}
+
+.gio .text-587 {
+  left: 1061px;
+  letter-spacing: 0.48px;
+  line-height: 20px;
+  position: absolute;
+  top: 1704px;
+  width: 235px;
+}
+
+.gio .problem-statement {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 2876px;
+  white-space: nowrap;
+}
+
+.gio .vector-279 {
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 2928px;
+  width: 1176px;
+}
+
+.gio .text-588 {
+  left: 156px;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  position: absolute;
+  top: 2961px;
+  width: 1142px;
+}
+
+.gio .wholehealthappv2-2 {
+  height: 992px;
+  left: 158px;
+  object-fit: cover;
+  position: absolute;
+  top: 3370px;
+  width: 1178px;
+}
+
+.gio .text-589 {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 3288px;
+  white-space: nowrap;
+}
+
+.gio .vector-279-1 {
+  height: 2px;
+  left: 157px;
+  position: absolute;
+  top: 3337px;
+  width: 1177px;
+}
+
+.gio .text-590 {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 4892px;
+  white-space: nowrap;
+}
+
+.gio .vector-280 {
+  height: 2px;
+  left: 157px;
+  position: absolute;
+  top: 4941px;
+  width: 1177px;
+}
+
+.gio .secondary-research {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 4425px;
+  white-space: nowrap;
+}
+
+.gio .text-591 {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 5751px;
+  white-space: nowrap;
+}
+
+.gio .text-592 {
+  left: 156px;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  position: absolute;
+  top: 4476px;
+  width: 1142px;
+}
+
+.gio .text-593 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4974px;
+  width: 1142px;
+}
+
+.gio .overlap-group17 {
+  height: 555px;
+  left: 126px;
+  position: absolute;
+  top: 5156px;
+  width: 1238px;
+}
+
+.gio .autism-tracker-new-frame-1-2 {
+  cursor: pointer;
+  height: 555px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1238px;
+}
+
+.gio .mouse-cursor {
+  height: 32px;
+  left: 1010px;
+  position: absolute;
+  top: 452px;
+  width: 32px;
+}
+
+.gio .click-me {
+  left: 1042px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  position: absolute;
+  top: 456px;
+  white-space: nowrap;
+}
+
+.gio .group-2570 {
+  align-items: flex-start;
+  display: flex;
+  height: 282px;
+  left: 156px;
+  min-width: 1157px;
+  position: absolute;
+  top: 6116px;
+}
+
+.gio .a-human-sitting {
+  height: 229px;
+  margin-left: -1px;
+  margin-top: 4px;
+  width: 162px;
+}
+
+.gio .flex-col-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 125px;
+  min-height: 282px;
+  width: 865px;
+}
+
+.gio .overlap-group3 {
+  height: 144px;
+  position: relative;
+  width: 308px;
+}
+
+.gio .number {
+  left: 0;
+  letter-spacing: 2.88px;
+  line-height: 144px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gio .text {
+  left: 5px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.gio .text-1 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 865px;
+}
+
+.gio .group-2571 {
+  align-items: flex-start;
+  display: flex;
+  height: 282px;
+  left: 156px;
+  min-width: 1145px;
+  position: absolute;
+  top: 6430px;
+}
+
+.gio .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 282px;
+  width: 870px;
+}
+
+.gio .overlap-group4 {
+  height: 144px;
+  position: relative;
+  width: 272px;
+}
+
+.gio .text-2 {
+  align-self: flex-end;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 865px;
+}
+
+.gio .a-human-standing {
+  height: 232px;
+  margin-left: 102px;
+  margin-top: 3.13px;
+  width: 173px;
+}
+
+.gio .group-2572 {
+  align-items: center;
+  display: flex;
+  height: 282px;
+  left: 156px;
+  min-width: 1145px;
+  position: absolute;
+  top: 6744px;
+}
+
+.gio .human {
+  height: 200px;
+  margin-top: 5.77px;
+  width: 216px;
+}
+
+.gio .flex-col-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 58px;
+  min-height: 282px;
+  width: 865px;
+}
+
+.gio .overlap-group5 {
+  height: 144px;
+  position: relative;
+  width: 274px;
+}
+
+.gio .group-2573 {
+  align-items: flex-start;
+  display: flex;
+  height: 282px;
+  left: 156px;
+  min-width: 1152px;
+  position: absolute;
+  top: 7058px;
+}
+
+.gio .overlap-group6 {
+  height: 144px;
+  position: relative;
+  width: 227px;
+}
+
+.gio .a-human-standing-1 {
+  height: 228px;
+  margin-left: 110px;
+  margin-top: 5.13px;
+  width: 173px;
+}
+
+.gio .group-2574 {
+  align-items: center;
+  display: flex;
+  height: 282px;
+  left: 156px;
+  min-width: 1152px;
+  position: absolute;
+  top: 7372px;
+}
+
+.gio .group-1 {
+  height: 228px;
+  margin-left: -1px;
+  margin-top: 5.89px;
+  width: 162px;
+}
+
+.gio .flex-col-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 120px;
+  min-height: 282px;
+  width: 865px;
+}
+
+.gio .overlap-group7 {
+  height: 144px;
+  margin-right: 5px;
+  position: relative;
+  width: 343px;
+}
+
+.gio .text-604 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 7734px;
+}
+
+.gio .text-605 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 9027px;
+  white-space: nowrap;
+}
+
+.gio .user-story-map {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 9540px;
+  white-space: nowrap;
+}
+
+.gio .text-606 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 10487px;
+  white-space: nowrap;
+}
+
+.gio .overlap-group15 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 156px;
+  min-height: 275px;
+  padding: 37px 0;
+  position: absolute;
+  top: 7916px;
+  width: 363px;
+}
+
+.gio .flex-row {
+  align-items: center;
+  display: flex;
+  margin-top: 4px;
+  min-width: 269px;
+}
+
+.gio .understand {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 126px;
+  white-space: nowrap;
+}
+
+.gio .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-34@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 88px;
+  min-width: 55px;
+  padding: 15px;
+}
+
+.gio .thought-bubble {
+  height: 24px;
+  width: 24px;
+}
+
+.gio .text-6 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-right: 11.0px;
+  margin-top: 29px;
+  min-height: 113px;
+  width: 258px;
+}
+
+.gio .overlap-group20 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 582px;
+  min-height: 275px;
+  padding: 42px;
+  position: absolute;
+  top: 7916px;
+  width: 363px;
+}
+
+.gio .flex-row-1 {
+  align-items: center;
+  display: flex;
+  min-width: 274px;
+}
+
+.gio .track {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  margin-bottom: 1.0px;
+  min-height: 20px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.gio .overlap-group2-1 {
+  align-items: flex-start;
+  background-image: url(../img/ellipse-32@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 159px;
+  min-width: 55px;
+  padding: 14.7px 15px;
+}
+
+.gio .chart {
+  height: 25px;
+  width: 24px;
+}
+
+.gio .text-6-1 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 274px;
+}
+
+.gio .overlap-group14 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 1008px;
+  min-height: 275px;
+  padding: 41px 42px;
+  position: absolute;
+  top: 7916px;
+  width: 363px;
+}
+
+.gio .learn {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 59px;
+  white-space: nowrap;
+}
+
+.gio .overlap-group2-2 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-35@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 160px;
+  min-width: 55px;
+  padding: 14.5px 15px;
+}
+
+.gio .graduate {
+  height: 26px;
+  width: 24px;
+}
+
+.gio .text-609 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 17px;
+  min-height: 48px;
+  width: 274px;
+}
+
+.gio .text-610 {
+  cursor: pointer;
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7836px;
+  width: 1176px;
+}
+
+.gio .text-611 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 8356px;
+  width: 1176px;
+}
+
+.gio .text-612 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10231px;
+  width: 1176px;
+}
+
+.gio .ideation {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 8271px;
+  white-space: nowrap;
+}
+
+.gio .vector-279-2 {
+  height: 2px;
+  left: 157px;
+  position: absolute;
+  top: 8323px;
+  width: 1177px;
+}
+
+.gio .group-1100 {
+  height: 349px;
+  left: 156px;
+  position: absolute;
+  top: 8564px;
+  width: 557px;
+}
+
+.gio .overlap-group16 {
+  height: 415px;
+  left: 730px;
+  position: absolute;
+  top: 8553px;
+  width: 620px;
+}
+
+.gio .gio-concept-architecture-2 {
+  cursor: pointer;
+  height: 415px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 620px;
+}
+
+.gio .mouse-cursor-1 {
+  height: 32px;
+  left: 211px;
+  position: absolute;
+  top: 57px;
+  width: 32px;
+}
+
+.gio .click-me-1 {
+  left: 243px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.gio .group-2575 {
+  align-items: center;
+  display: flex;
+  height: 366px;
+  left: 156px;
+  min-width: 1214px;
+  position: absolute;
+  top: 9094px;
+}
+
+.gio .flex-col-5 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 358px;
+  width: 243px;
+}
+
+.gio .ellipse-48-7 {
+  height: 233px;
+  object-fit: cover;
+  width: 233px;
+}
+
+.gio .name-1 {
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  margin-top: 61px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.gio .text-613 {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  margin-top: 18px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.gio .flex-col-6 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  min-height: 350px;
+  width: 315px;
+}
+
+.gio .background {
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  min-height: 19px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.gio .text-614 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 20px;
+  min-height: 311px;
+  width: 315px;
+}
+
+.gio .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 60px;
+  min-height: 350px;
+  width: 235px;
+}
+
+.gio .goals {
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  min-height: 19px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.gio .text-61 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 20px;
+  min-height: 311px;
+  width: 235px;
+}
+
+.gio .pain-points {
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  min-height: 19px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.gio .overlap-group10 {
+  height: 619px;
+  left: 126px;
+  position: absolute;
+  top: 9587px;
+  width: 1226px;
+}
+
+.gio .untitled-user-s-ry-mapping-v2-2 {
+  cursor: pointer;
+  height: 619px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1226px;
+}
+
+.gio .mouse-cursor-2 {
+  height: 32px;
+  left: 119px;
+  position: absolute;
+  top: 486px;
+  width: 32px;
+}
+
+.gio .click-me-2 {
+  left: 151px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  position: absolute;
+  top: 490px;
+  white-space: nowrap;
+}
+
+.gio .overlap-group12 {
+  height: 615px;
+  left: 126px;
+  position: absolute;
+  top: 10534px;
+  width: 617px;
+}
+
+.gio .parent-task-flow-2 {
+  cursor: pointer;
+  height: 615px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 617px;
+}
+
+.gio .mouse-cursor-3 {
+  height: 32px;
+  left: 402px;
+  position: absolute;
+  top: 400px;
+  width: 32px;
+}
+
+.gio .click-me-3 {
+  left: 434px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  position: absolute;
+  top: 404px;
+  white-space: nowrap;
+}
+
+.gio .sq-3 {
+  height: 555px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 10554px;
+  width: 593px;
+}
+
+.gio .text-617 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 11173px;
+  width: 1212px;
+}
+
+.gio .text-618 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 11357px;
+  white-space: nowrap;
+}
+
+.gio .text-619 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 11409px;
+  width: 1176px;
+}
+
+.gio .colors-4 {
+  height: 1091px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 12584px;
+  width: 1172px;
+}
+
+.gio .colors-5 {
+  height: 912px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 11609px;
+  width: 1172px;
+}
+
+.gio .text-620 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 13839px;
+  width: 1155px;
+}
+
+.gio .text-621 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 14075px;
+  width: 1155px;
+}
+
+.gio .text-622 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 15206px;
+  width: 1155px;
+}
+
+.gio .text-623 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 16782px;
+  width: 1155px;
+}
+
+.gio .text-624 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 18316px;
+  width: 1155px;
+}
+
+.gio .text-625 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 19460px;
+  width: 1155px;
+}
+
+.gio .final-design {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 13754px;
+  white-space: nowrap;
+}
+
+.gio .vector-279-3 {
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 13806px;
+  width: 1154px;
+}
+
+.gio .text-626 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 14023px;
+  white-space: nowrap;
+}
+
+.gio .group-1100-1 {
+  height: 830px;
+  left: 127px;
+  position: absolute;
+  top: 14208px;
+  width: 1213px;
+}
+
+.gio .journal-entry {
+  left: 161px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 15154px;
+  white-space: nowrap;
+}
+
+.gio .group-1100-2 {
+  height: 1322px;
+  left: 127px;
+  position: absolute;
+  top: 15291px;
+  width: 1206px;
+}
+
+.gio .data-analytics {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 16730px;
+  white-space: nowrap;
+}
+
+.gio .group-1100-3 {
+  height: 1281px;
+  left: 127px;
+  position: absolute;
+  top: 16867px;
+  width: 1211px;
+}
+
+.gio .childs-profile {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 18264px;
+  white-space: nowrap;
+}
+
+.gio .group-1100-4 {
+  height: 867px;
+  left: 127px;
+  position: absolute;
+  top: 18425px;
+  width: 1206px;
+}
+
+.gio .resource-center {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 19408px;
+  white-space: nowrap;
+}
+
+.gio .group-1100-5 {
+  height: 1401px;
+  left: 127px;
+  position: absolute;
+  top: 19569px;
+  width: 1202px;
+}
+
+.gio .medicine-tracker {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 21086px;
+  white-space: nowrap;
+}
+
+.gio .group-1100-6 {
+  height: 1239px;
+  left: 128px;
+  position: absolute;
+  top: 21223px;
+  width: 1193px;
+}
+
+.gio .text-627 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 21138px;
+  width: 1155px;
+}
+
+.gio .overlap-group11 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 156px;
+  min-height: 275px;
+  padding: 37px 0;
+  position: absolute;
+  top: 22488px;
+  width: 363px;
+}
+
+.gio .overlap-group19 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 582px;
+  min-height: 275px;
+  padding: 42px;
+  position: absolute;
+  top: 22488px;
+  width: 363px;
+}
+
+.gio .overlap-group13 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 1008px;
+  min-height: 275px;
+  padding: 41px 42px;
+  position: absolute;
+  top: 22488px;
+  width: 363px;
+}
+
+.gio .text-630 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 17px;
+  min-height: 96px;
+  width: 274px;
+}
+
+.gio .text-631 {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 22843px;
+  white-space: nowrap;
+}
+
+.gio .vector-279-4 {
+  height: 2px;
+  left: 157px;
+  position: absolute;
+  top: 22895px;
+  width: 1143px;
+}
+
+.gio .text-632 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 22928px;
+  width: 1137px;
+}
+
+.gio .program-hd-2 {
+  height: 620px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 23184px;
+  width: 1153px;
+}
+
+.gio .thank-you {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 23895px;
+  white-space: nowrap;
+}
+
+.gio .vector-280-1 {
+  height: 2px;
+  left: 156px;
+  position: absolute;
+  top: 23947px;
+  width: 1161px;
+}
+
+.gio .grinning-face-w-smiling-eyes-2 {
+  height: 30px;
+  left: 284px;
+  position: absolute;
+  top: 23884px;
+  width: 30px;
+}
+
+.gio .group-1101 {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 516px;
+  min-width: 410px;
+  position: absolute;
+  top: 24330px;
+}
+
+.gio .overlap-group8 {
+  height: 51px;
+  position: relative;
+  width: 408px;
+}
+
+.gio .text-633 {
+  left: 0;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+}
+
+.gio .sparkling-heart-1 {
+  height: 30px;
+  left: 141px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.gio .text-634 {
+  cursor: pointer;
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  pointer-events: auto;
+  position: absolute;
+  text-decoration: underline;
+  top: 24028px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 456px;
+}
+
+.gio .text-634:hover {
+  transform: translate(0, -5px);
+}
+
+.gio .group-2569 {
+  align-items: center;
+  display: flex;
+  height: 282px;
+  left: 156px;
+  min-width: 1157px;
+  position: absolute;
+  top: 5802px;
+}
+
+.gio .overlap-group9 {
+  height: 144px;
+  position: relative;
+  width: 410px;
+}
+
+.gio .text-636 {
+  left: 5px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.gio .human-1 {
+  height: 206px;
+  margin-left: 77px;
+  margin-top: 5.77px;
+  width: 204px;
+}
+
+.gio .board-certified-analyst-bcba-1 {
+  height: 72px;
+  left: 796px;
+  object-fit: cover;
+  position: absolute;
+  top: 1562px;
+  width: 184px;
+}
+
+.gio .doctor-1 {
+  height: 46px;
+  left: 866px;
+  object-fit: cover;
+  position: absolute;
+  top: 1469px;
+  width: 44px;
+}
+/* screen - gio-mac */
+
+.gio-mac {
+  background-color: var(--white);
+  height: 23536px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1152px;
+}
+
+.gio-mac .image-1-1 {
+  cursor: pointer;
+  height: 90px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 65px;
+}
+
+.gio-mac .group-994 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  left: 789px;
+  min-width: 119px;
+  position: absolute;
+  top: 154px;
+}
+
+.gio-mac .overlap-group-1 {
+  border-radius: 50px;
+  height: 36px;
+  position: relative;
+  width: 117px;
+}
+
+.gio-mac .about-1 {
+  left: 33px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.gio-mac .about-1:hover {
+  transform: scale(0.9); 
+}
+
+.gio-mac .rectangle-1205 {
+  border-radius: 50px;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+
+.gio-mac .group-993-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  left: 945px;
+  min-width: 119px;
+  position: absolute;
+  top: 154px;
+}
+
+.gio-mac .overlap-group1-1 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 8px;
+}
+
+.gio-mac .resume-1 {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.gio-mac .resume-1:hover {
+  transform: scale(0.9); 
+}
+
+.gio-mac .group-1004 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  left: 633px;
+  min-width: 119px;
+  position: absolute;
+  top: 154px;
+}
+
+.gio-mac .overlap-group2-7 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 33px;
+}
+
+.gio-mac .work-1 {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  min-width: 43px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.gio-mac .work-1:hover {
+  transform: scale(0.9); 
+}
+
+.gio-mac .the-asd-digital-1 {
+  left: 64px;
+  letter-spacing: 1.20px;
+  line-height: 50px;
+  position: absolute;
+  top: 537px;
+  white-space: nowrap;
+}
+
+.gio-mac .coordinator-1 {
+  left: 64px;
+  letter-spacing: 1.20px;
+  line-height: 50px;
+  position: absolute;
+  top: 587px;
+  white-space: nowrap;
+}
+
+.gio-mac .gio-2 {
+  color: var(--portage-2);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 700;
+  left: 64px;
+  letter-spacing: 1.20px;
+  line-height: 40px;
+  position: absolute;
+  top: 663px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-324 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  position: absolute;
+  top: 757px;
+}
+
+.gio-mac .x100-3 {
+  height: 106px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 874px;
+  width: 106px;
+}
+
+.gio-mac .text-325 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 1257px;
+  white-space: nowrap;
+}
+
+.gio-mac .vector-1 {
+  height: 51px;
+  left: 422px;
+  position: absolute;
+  top: 1358px;
+  width: 52px;
+}
+
+.gio-mac .text-326 {
+  left: 64px;
+  letter-spacing: 0.55px;
+  line-height: 23.1px;
+  position: absolute;
+  text-align: center;
+  top: 1448px;
+  width: 179px;
+}
+
+.gio-mac .noun-autism-aw-1130071000000-1 {
+  height: 56px;
+  left: 126px;
+  position: absolute;
+  top: 1356px;
+  width: 56px;
+}
+
+.gio-mac .text-327 {
+  left: 64px;
+  letter-spacing: 0.44px;
+  line-height: 18.5px;
+  position: absolute;
+  top: 1580px;
+  width: 250px;
+}
+
+.gio-mac .text-328 {
+  left: 314px;
+  letter-spacing: 0.55px;
+  line-height: 23.1px;
+  position: absolute;
+  text-align: center;
+  top: 1448px;
+  width: 243px;
+}
+
+.gio-mac .text-329 {
+  left: 340px;
+  letter-spacing: 0.44px;
+  line-height: 18.5px;
+  position: absolute;
+  top: 1580px;
+  width: 217px;
+}
+
+.gio-mac .text-330 {
+  left: 595px;
+  letter-spacing: 0.44px;
+  line-height: 18.5px;
+  position: absolute;
+  top: 1580px;
+  width: 217px;
+}
+
+.gio-mac .text-331 {
+  left: 841px;
+  letter-spacing: 0.55px;
+  line-height: 23.1px;
+  position: absolute;
+  text-align: center;
+  top: 1448px;
+  width: 230px;
+}
+
+.gio-mac .text-332 {
+  left: 859px;
+  letter-spacing: 0.44px;
+  line-height: 18.5px;
+  position: absolute;
+  top: 1580px;
+  width: 217px;
+}
+
+.gio-mac .project-overview-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 1808px;
+  white-space: nowrap;
+}
+
+.gio-mac .vector-281 {
+  height: 2px;
+  left: 64px;
+  position: absolute;
+  top: 1860px;
+  width: 997px;
+}
+
+.gio-mac .group-1096 {
+  height: 378px;
+  left: 37px;
+  position: absolute;
+  top: 1907px;
+  width: 1052px;
+}
+
+.gio-mac .text-333 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 2330px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-334 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2382px;
+  width: 636px;
+}
+
+.gio-mac .start-date-1 {
+  left: 773px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2330px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mac .name-2 {
+  left: 752px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2357px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mac .tools-1 {
+  left: 774px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2419px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mac .figma-miro-1 {
+  left: 753px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2446px;
+  width: 116px;
+}
+
+.gio-mac .edit-1 {
+  height: 16px;
+  left: 751px;
+  position: absolute;
+  top: 2419px;
+  width: 16px;
+}
+
+.gio-mac .duration-1 {
+  left: 958px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2330px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mac .address-1 {
+  left: 937px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2357px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mac .hourglass-1 {
+  height: 16px;
+  left: 937px;
+  position: absolute;
+  top: 2330px;
+  width: 16px;
+}
+
+.gio-mac .team-1 {
+  left: 958px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2419px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mac .text-335 {
+  cursor: pointer;
+  left: 937px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2446px;
+  width: 125px;
+}
+
+.gio-mac .span-1 {
+  letter-spacing: 0.08px;
+}
+
+.gio-mac .user-1 {
+  height: 16px;
+  left: 937px;
+  position: absolute;
+  top: 2419px;
+  width: 16px;
+}
+
+.gio-mac .calendar-alt-1 {
+  height: 17px;
+  left: 751px;
+  position: absolute;
+  top: 2330px;
+  width: 16px;
+}
+
+.gio-mac .problem-statement-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 2688px;
+  white-space: nowrap;
+}
+
+.gio-mac .vector-281-1 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 2737px;
+  width: 997px;
+}
+
+.gio-mac .text-336 {
+  left: 67px;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  position: absolute;
+  top: 2770px;
+  width: 995px;
+}
+
+.gio-mac .text-337 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 3121px;
+  white-space: nowrap;
+}
+
+.gio-mac .vector-281-2 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 3173px;
+  width: 997px;
+}
+
+.gio-mac .wholehealthappv2-3 {
+  height: 840px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 3206px;
+  width: 998px;
+}
+
+.gio-mac .secondary-research-1 {
+  left: 66px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 4110px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-338 {
+  left: 64px;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  position: absolute;
+  top: 4160px;
+  width: 999px;
+}
+
+.gio-mac .text-339 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 4600px;
+  white-space: nowrap;
+}
+
+.gio-mac .vector-281-3 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 4649px;
+  width: 995px;
+}
+
+.gio-mac .text-340 {
+  left: 67px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4682px;
+  width: 993px;
+}
+
+.gio-mac .overlap-group13-1 {
+  height: 393px;
+  left: 64px;
+  position: absolute;
+  top: 4916px;
+  width: 999px;
+}
+
+.gio-mac .group-1111 {
+  display: flex;
+  height: 393px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 999px;
+}
+
+.gio-mac .autism-tracker-new-frame-1-3 {
+  cursor: pointer;
+  height: 453px;
+  margin-left: -30px;
+  margin-top: -20px;
+  width: 1059px;
+}
+
+.gio-mac .group-1114 {
+  display: flex;
+  height: 33px;
+  left: 813px;
+  position: absolute;
+  top: 330px;
+  width: 128px;
+}
+
+.gio-mac .mouse-cursor-4 {
+  height: 32px;
+  width: 32px;
+}
+
+.gio-mac .click-me-4 {
+  height: 29px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  margin-top: 4px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.gio-mac .text-341 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 5389px;
+  white-space: nowrap;
+}
+
+.gio-mac .group-2577 {
+  align-items: center;
+  display: flex;
+  height: 282px;
+  left: 64px;
+  min-width: 1002px;
+  position: absolute;
+  top: 5754px;
+}
+
+.gio-mac .a-human-sitting-1 {
+  height: 229px;
+  margin-bottom: 3.0px;
+  margin-left: -1px;
+  width: 162px;
+}
+
+.gio-mac .flex-col-7 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 217px;
+  min-height: 282px;
+  width: 618px;
+}
+
+.gio-mac .overlap-group3-1 {
+  height: 144px;
+  position: relative;
+  width: 308px;
+}
+
+.gio-mac .number-1 {
+  left: 0;
+  letter-spacing: 2.88px;
+  line-height: 144px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gio-mac .text-3 {
+  left: 5px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-342 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 618px;
+}
+
+.gio-mac .group-2578 {
+  align-items: flex-start;
+  display: flex;
+  height: 282px;
+  left: 64px;
+  min-width: 1002px;
+  position: absolute;
+  top: 6068px;
+}
+
+.gio-mac .flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 282px;
+  width: 659px;
+}
+
+.gio-mac .overlap-group4-1 {
+  height: 144px;
+  position: relative;
+  width: 272px;
+}
+
+.gio-mac .text-344 {
+  align-self: flex-end;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 654px;
+}
+
+.gio-mac .a-human-standing-2 {
+  height: 232px;
+  margin-left: 170px;
+  margin-top: 3.13px;
+  width: 173px;
+}
+
+.gio-mac .group-2579 {
+  align-items: flex-start;
+  display: flex;
+  height: 282px;
+  left: 64px;
+  min-width: 992px;
+  position: absolute;
+  top: 6382px;
+}
+
+.gio-mac .human-2 {
+  height: 200px;
+  margin-top: 14.89px;
+  width: 216px;
+}
+
+.gio-mac .flex-col-9 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 165px;
+  min-height: 282px;
+  width: 605px;
+}
+
+.gio-mac .overlap-group5-1 {
+  height: 144px;
+  position: relative;
+  width: 274px;
+}
+
+.gio-mac .text-346 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 605px;
+}
+
+.gio-mac .group-2580 {
+  align-items: flex-start;
+  display: flex;
+  height: 282px;
+  left: 64px;
+  min-width: 989px;
+  position: absolute;
+  top: 6696px;
+}
+
+.gio-mac .flex-col-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 282px;
+  width: 645px;
+}
+
+.gio-mac .overlap-group6-1 {
+  height: 144px;
+  position: relative;
+  width: 227px;
+}
+
+.gio-mac .text-348 {
+  align-self: flex-end;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 640px;
+}
+
+.gio-mac .a-human-standing-3 {
+  height: 228px;
+  margin-left: 172px;
+  margin-top: 2.13px;
+  width: 173px;
+}
+
+.gio-mac .group-2581 {
+  align-items: flex-end;
+  display: flex;
+  height: 282px;
+  left: 64px;
+  min-width: 972px;
+  position: absolute;
+  top: 7010px;
+}
+
+.gio-mac .group-2 {
+  height: 228px;
+  margin-bottom: 0.05px;
+  margin-left: -1px;
+  width: 162px;
+}
+
+.gio-mac .flex-col-11 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 215px;
+  min-height: 282px;
+  width: 590px;
+}
+
+.gio-mac .overlap-group7-1 {
+  height: 144px;
+  margin-right: 5px;
+  position: relative;
+  width: 343px;
+}
+
+.gio-mac .text-350 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 590px;
+}
+
+.gio-mac .text-352 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 7372px;
+}
+
+.gio-mac .text-353 {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7474px;
+  width: 971px;
+}
+
+.gio-mac .overlap-group16-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 64px;
+  min-height: 275px;
+  padding: 37px 0;
+  position: absolute;
+  top: 7554px;
+  width: 363px;
+}
+
+.gio-mac .flex-row-2 {
+  align-items: center;
+  display: flex;
+  margin-top: 4px;
+  min-width: 269px;
+}
+
+.gio-mac .understand-1 {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 126px;
+  white-space: nowrap;
+}
+
+.gio-mac .overlap-group2-4 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-34@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 88px;
+  min-width: 55px;
+  padding: 15px;
+}
+
+.gio-mac .thought-bubble-1 {
+  height: 24px;
+  width: 24px;
+}
+
+.gio-mac .text-3-1 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-right: 11.0px;
+  margin-top: 29px;
+  min-height: 113px;
+  width: 258px;
+}
+
+.gio-mac .overlap-group12-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 490px;
+  min-height: 275px;
+  padding: 42px;
+  position: absolute;
+  top: 7554px;
+  width: 363px;
+}
+
+.gio-mac .flex-row-3 {
+  align-items: center;
+  display: flex;
+  min-width: 274px;
+}
+
+.gio-mac .track-1 {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  margin-bottom: 1.0px;
+  min-height: 20px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.gio-mac .overlap-group2-5 {
+  align-items: flex-start;
+  background-image: url(../img/ellipse-32@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 159px;
+  min-width: 55px;
+  padding: 14.7px 15px;
+}
+
+.gio-mac .chart-1 {
+  height: 25px;
+  width: 24px;
+}
+
+.gio-mac .text-3-2 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 96px;
+  width: 274px;
+}
+
+.gio-mac .overlap-group15-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 64px;
+  min-height: 275px;
+  padding: 41px 42px;
+  position: absolute;
+  top: 7897px;
+  width: 363px;
+}
+
+.gio-mac .learn-1 {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 59px;
+  white-space: nowrap;
+}
+
+.gio-mac .overlap-group2-6 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-35@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 160px;
+  min-width: 55px;
+  padding: 14.5px 15px;
+}
+
+.gio-mac .graduate-1 {
+  height: 26px;
+  width: 24px;
+}
+
+.gio-mac .text-356 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 17px;
+  min-height: 48px;
+  width: 274px;
+}
+
+.gio-mac .text-357 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 8337px;
+  width: 999px;
+}
+
+.gio-mac .ideation-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 8252px;
+  white-space: nowrap;
+}
+
+.gio-mac .vector-281-4 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 8304px;
+  width: 998px;
+}
+
+.gio-mac .group-1110 {
+  height: 298px;
+  left: 64px;
+  position: absolute;
+  top: 8545px;
+  width: 476px;
+}
+
+.gio-mac .overlap-group17-1 {
+  height: 313px;
+  left: 585px;
+  position: absolute;
+  top: 8537px;
+  width: 468px;
+}
+
+.gio-mac .gio-concept-architecture-3 {
+  cursor: pointer;
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 468px;
+}
+
+.gio-mac .mouse-cursor-5 {
+  height: 32px;
+  left: 204px;
+  position: absolute;
+  top: 20px;
+  width: 32px;
+}
+
+.gio-mac .click-me-5 {
+  left: 236px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-358 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 8923px;
+  white-space: nowrap;
+}
+
+.gio-mac .group-2582 {
+  align-items: flex-start;
+  display: flex;
+  height: 504px;
+  left: 64px;
+  min-width: 1091px;
+  position: absolute;
+  top: 8990px;
+}
+
+.gio-mac .flex-col-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  min-height: 358px;
+  width: 243px;
+}
+
+.gio-mac .ellipse-48-8 {
+  height: 233px;
+  object-fit: cover;
+  width: 233px;
+}
+
+.gio-mac .name-3 {
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  margin-top: 61px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-359 {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  margin-top: 18px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.gio-mac .flex-col-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 38px;
+  min-height: 504px;
+  width: 240px;
+}
+
+.gio-mac .background-1 {
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  min-height: 19px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.gio-mac .text-360 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 20px;
+  min-height: 465px;
+  width: 240px;
+}
+
+.gio-mac .flex-col-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 48px;
+  min-height: 350px;
+  width: 235px;
+}
+
+.gio-mac .goals-1 {
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  min-height: 19px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.gio-mac .text-361 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 20px;
+  min-height: 311px;
+  width: 235px;
+}
+
+.gio-mac .flex-col-15 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 48px;
+  min-height: 350px;
+  width: 223px;
+}
+
+.gio-mac .pain-points-1 {
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  min-height: 19px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.gio-mac .text-362 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 20px;
+  min-height: 311px;
+  width: 223px;
+}
+
+.gio-mac .user-story-map-1 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 9574px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-363 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10203px;
+  width: 989px;
+}
+
+.gio-mac .overlap-group14-1 {
+  height: 557px;
+  left: 34px;
+  position: absolute;
+  top: 9621px;
+  width: 1097px;
+}
+
+.gio-mac .untitled-user-s-ry-mapping-v2-3 {
+  cursor: pointer;
+  height: 557px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1097px;
+}
+
+.gio-mac .mouse-cursor-6 {
+  height: 32px;
+  left: 110px;
+  position: absolute;
+  top: 440px;
+  width: 32px;
+}
+
+.gio-mac .click-me-6 {
+  left: 142px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  position: absolute;
+  top: 444px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-364 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 10475px;
+  white-space: nowrap;
+}
+
+.gio-mac .overlap-group19-1 {
+  height: 517px;
+  left: 39px;
+  position: absolute;
+  top: 10525px;
+  width: 518px;
+}
+
+.gio-mac .parent-task-flow-3 {
+  cursor: pointer;
+  height: 517px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 518px;
+}
+
+.gio-mac .mouse-cursor-7 {
+  height: 28px;
+  left: 338px;
+  position: absolute;
+  top: 336px;
+  width: 27px;
+}
+
+.gio-mac .click-me-7 {
+  left: 364px;
+  letter-spacing: 0.48px;
+  line-height: 23.9px;
+  position: absolute;
+  top: 340px;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.gio-mac .sq-4 {
+  height: 466px;
+  left: 574px;
+  object-fit: cover;
+  position: absolute;
+  top: 10542px;
+  width: 498px;
+}
+
+.gio-mac .text-365 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 11072px;
+  width: 987px;
+}
+
+.gio-mac .text-366 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 11280px;
+  white-space: nowrap;
+  width: 459px;
+}
+
+.gio-mac .text-367 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 11332px;
+  width: 1009px;
+}
+
+.gio-mac .colors-6 {
+  height: 936px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 12403px;
+  width: 1006px;
+}
+
+.gio-mac .colors-7 {
+  height: 783px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 11556px;
+  width: 1006px;
+}
+
+.gio-mac .text-368 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 13504px;
+  width: 1002px;
+}
+
+.gio-mac .text-369 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 13740px;
+  width: 1006px;
+}
+
+.gio-mac .final-design-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 13419px;
+  white-space: nowrap;
+}
+
+.gio-mac .vector-281-5 {
+  height: 2px;
+  left: 64px;
+  position: absolute;
+  top: 13471px;
+  width: 1006px;
+}
+
+.gio-mac .text-370 {
+  left: 65px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 13688px;
+  white-space: nowrap;
+}
+
+.gio-mac .group-1096-1 {
+  height: 708px;
+  left: 40px;
+  position: absolute;
+  top: 13875px;
+  width: 1033px;
+}
+
+.gio-mac .text-371 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 14756px;
+  width: 1005px;
+}
+
+.gio-mac .journal-entry-1 {
+  left: 69px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 14704px;
+  white-space: nowrap;
+}
+
+.gio-mac .group-1096-2 {
+  height: 1128px;
+  left: 40px;
+  position: absolute;
+  top: 14892px;
+  width: 1028px;
+}
+
+.gio-mac .text-372 {
+  left: 69px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 16194px;
+  width: 981px;
+}
+
+.gio-mac .data-analytics-1 {
+  left: 69px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 16142px;
+  white-space: nowrap;
+}
+
+.gio-mac .group-1096-3 {
+  height: 1080px;
+  left: 40px;
+  position: absolute;
+  top: 16282px;
+  width: 1020px;
+}
+
+.gio-mac .text-373 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 17536px;
+  width: 981px;
+}
+
+.gio-mac .childs-profile-1 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 17484px;
+  white-space: nowrap;
+}
+
+.gio-mac .group-1096-4 {
+  height: 737px;
+  left: 40px;
+  position: absolute;
+  top: 17648px;
+  width: 1024px;
+}
+
+.gio-mac .text-374 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 18559px;
+  width: 967px;
+}
+
+.gio-mac .resource-center-1 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 18507px;
+  white-space: nowrap;
+}
+
+.gio-mac .group-1096-5 {
+  height: 1160px;
+  left: 40px;
+  position: absolute;
+  top: 18695px;
+  width: 995px;
+}
+
+.gio-mac .medicine-tracker-1 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 19978px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-375 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 20030px;
+  width: 967px;
+}
+
+.gio-mac .group-1096-6 {
+  height: 1042px;
+  left: 40px;
+  position: absolute;
+  top: 20118px;
+  width: 1004px;
+}
+
+.gio-mac .overlap-group11-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 64px;
+  min-height: 275px;
+  padding: 37px 0;
+  position: absolute;
+  top: 21193px;
+  width: 363px;
+}
+
+.gio-mac .overlap-group10-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 490px;
+  min-height: 275px;
+  padding: 42px;
+  position: absolute;
+  top: 21193px;
+  width: 363px;
+}
+
+.gio-mac .overlap-group18-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 64px;
+  min-height: 275px;
+  padding: 41px 42px;
+  position: absolute;
+  top: 21536px;
+  width: 363px;
+}
+
+.gio-mac .text-378 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 17px;
+  min-height: 96px;
+  width: 274px;
+}
+
+.gio-mac .text-379 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 21998px;
+  white-space: nowrap;
+}
+
+.gio-mac .vector-281-6 {
+  height: 2px;
+  left: 63px;
+  position: absolute;
+  top: 22050px;
+  width: 950px;
+}
+
+.gio-mac .text-380 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 22083px;
+  width: 944px;
+}
+
+.gio-mac .program-hd-3 {
+  height: 506px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 22387px;
+  width: 940px;
+}
+
+.gio-mac .thank-you-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 22984px;
+  white-space: nowrap;
+}
+
+.gio-mac .vector-282 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 23036px;
+  width: 939px;
+}
+
+.gio-mac .grinning-face-w-smiling-eyes-3 {
+  height: 30px;
+  left: 190px;
+  position: absolute;
+  top: 22973px;
+  width: 30px;
+}
+
+.gio-mac .group-1097 {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 372px;
+  min-width: 410px;
+  position: absolute;
+  top: 23401px;
+}
+
+.gio-mac .overlap-group8-1 {
+  height: 51px;
+  position: relative;
+  width: 408px;
+}
+
+.gio-mac .text-381 {
+  left: 0;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+}
+
+.gio-mac .sparkling-heart-1-1 {
+  height: 30px;
+  left: 141px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.gio-mac .text-382 {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  pointer-events: auto;
+  position: absolute;
+  text-decoration: underline;
+  top: 23117px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 456px;
+}
+
+.gio-mac .text-382:hover {
+  transform: translate(0, -5px);
+}
+
+.gio-mac .group-2576 {
+  align-items: center;
+  display: flex;
+  height: 282px;
+  left: 64px;
+  min-width: 1005px;
+  position: absolute;
+  top: 5440px;
+}
+
+.gio-mac .flex-col-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 282px;
+  width: 662px;
+}
+
+.gio-mac .overlap-group9-1 {
+  height: 144px;
+  position: relative;
+  width: 413px;
+}
+
+.gio-mac .text-384 {
+  left: 8px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.gio-mac .text-383 {
+  align-self: flex-end;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 657px;
+}
+
+.gio-mac .human-3 {
+  height: 206px;
+  margin-bottom: 4.23px;
+  margin-left: 133px;
+  width: 204px;
+}
+
+.gio-mac .board-certified-analyst-bcba-2 {
+  height: 72px;
+  left: 607px;
+  object-fit: cover;
+  position: absolute;
+  top: 1448px;
+  width: 184px;
+}
+
+.gio-mac .group-1118-1-1 {
+  height: 716px;
+  left: 511px;
+  object-fit: cover;
+  position: absolute;
+  top: 419px;
+  width: 641px;
+}
+
+.gio-mac .list-1-1 {
+  height: 46px;
+  left: 936px;
+  object-fit: cover;
+  position: absolute;
+  top: 1356px;
+  width: 38px;
+}
+
+.gio-mac .doctor-1-1 {
+  height: 46px;
+  left: 682px;
+  object-fit: cover;
+  position: absolute;
+  top: 1356px;
+  width: 44px;
+}
+/* screen - gio-mobile */
+
+.gio-mobile {
+  background-color: var(--white);
+  height: 31822px;
+  overflow: hidden;
+  position: relative;
+  width: 320px;
+}
+
+.gio-mobile .image-1-2 {
+  cursor: pointer;
+  height: 47px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 34px;
+}
+
+.gio-mobile .text-56 {
+  left: 46px;
+  letter-spacing: 0.72px;
+  line-height: 30px;
+  position: absolute;
+  top: 155px;
+  width: 230px;
+}
+
+.gio-mobile .gio-3 {
+  color: var(--portage-2);
+  font-family: var(--font-family-poppins);
+  font-size: 24px;
+  font-weight: 700;
+  left: 46px;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 225px;
+  white-space: nowrap;
+}
+
+.gio-mobile .text-57 {
+  left: 46px;
+  letter-spacing: 0.42px;
+  line-height: 24.5px;
+  position: absolute;
+  top: 296px;
+  width: 233px;
+}
+
+.gio-mobile .x100-5 {
+  height: 106px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 462px;
+  width: 106px;
+}
+
+.gio-mobile .material-icons-blackmenu {
+  background-image: url(../img/shape-1@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 16px;
+  left: 255px;
+  position: absolute;
+  top: 47px;
+  width: 24px;
+}
+
+.gio-mobile .text-58 {
+  color: var(--ebony-clay);
+  font-family: var(--font-family-poppins);
+  font-size: 17px;
+  font-weight: 500;
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 21.2px;
+  position: absolute;
+  top: 982px;
+  width: 230px;
+}
+
+.gio-mobile .text-59 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 21.2px;
+  position: absolute;
+  top: 1149px;
+  width: 179px;
+}
+
+.gio-mobile .noun-autism-aw-1130071000000-2 {
+  height: 56px;
+  left: 34px;
+  position: absolute;
+  top: 1077px;
+  width: 56px;
+}
+
+.gio-mobile .text-60 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 17.5px;
+  position: absolute;
+  top: 1212px;
+  width: 250px;
+}
+
+.gio-mobile .vector-2 {
+  height: 50px;
+  left: 34px;
+  position: absolute;
+  top: 1390px;
+  width: 52px;
+}
+
+.gio-mobile .text-61-1 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 21.2px;
+  position: absolute;
+  top: 1456px;
+  width: 243px;
+}
+
+.gio-mobile .text-62 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 17.5px;
+  position: absolute;
+  top: 1518px;
+  width: 248px;
+}
+
+.gio-mobile .text-63 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 17.5px;
+  position: absolute;
+  top: 1773px;
+  width: 250px;
+}
+
+.gio-mobile .text-64 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 21.2px;
+  position: absolute;
+  top: 1935px;
+  width: 230px;
+}
+
+.gio-mobile .text-65 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 17.5px;
+  position: absolute;
+  top: 2043px;
+  width: 245px;
+}
+
+.gio-mobile .project-overview-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 2235px;
+  white-space: nowrap;
+}
+
+.gio-mobile .vector-285 {
+  height: 1px;
+  left: 35px;
+  position: absolute;
+  top: 2268px;
+  width: 232px;
+}
+
+.gio-mobile .overlap-group24 {
+  height: 238px;
+  left: 20px;
+  position: absolute;
+  top: 2301px;
+  width: 281px;
+}
+
+.gio-mobile .i-phone-8-19 {
+  height: 238px;
+  left: 132px;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.gio-mobile .i-phone-8-2 {
+  height: 238px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.gio-mobile .overlap-group22 {
+  height: 238px;
+  left: 22px;
+  position: absolute;
+  top: 2541px;
+  width: 276px;
+}
+
+.gio-mobile .i-phone-8-22 {
+  height: 238px;
+  left: 127px;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.gio-mobile .i-phone-8-23 {
+  height: 238px;
+  left: 22px;
+  position: absolute;
+  top: 2781px;
+  width: 149px;
+}
+
+.gio-mobile .start-date-2 {
+  left: 56px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 3045px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mobile .name-4 {
+  left: 35px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 3072px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mobile .duration-2 {
+  left: 55px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 3140px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mobile .address-2 {
+  left: 34px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 3167px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mobile .hourglass-2 {
+  height: 16px;
+  left: 34px;
+  position: absolute;
+  top: 3140px;
+  width: 16px;
+}
+
+.gio-mobile .calendar-alt-2 {
+  height: 17px;
+  left: 34px;
+  position: absolute;
+  top: 3045px;
+  width: 16px;
+}
+
+.gio-mobile .tools-2 {
+  left: 58px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 3235px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mobile .figma-miro-2 {
+  left: 37px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3262px;
+  width: 116px;
+}
+
+.gio-mobile .edit-2 {
+  height: 16px;
+  left: 35px;
+  position: absolute;
+  top: 3235px;
+  width: 16px;
+}
+
+.gio-mobile .team-2 {
+  left: 56px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 3362px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-mobile .text-66 {
+  cursor: pointer;
+  left: 35px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3389px;
+  width: 125px;
+}
+
+.gio-mobile .span-2 {
+  letter-spacing: 0.08px;
+}
+
+.gio-mobile .user-2 {
+  height: 16px;
+  left: 35px;
+  position: absolute;
+  top: 3362px;
+  width: 16px;
+}
+
+.gio-mobile .text-67 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 3501px;
+  white-space: nowrap;
+}
+
+.gio-mobile .text-68 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 3535px;
+  width: 236px;
+}
+
+.gio-mobile .problem-statement-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 3968px;
+  white-space: nowrap;
+}
+
+.gio-mobile .vector-284 {
+  height: 1px;
+  left: 36px;
+  position: absolute;
+  top: 4000px;
+  width: 228px;
+}
+
+.gio-mobile .text-69 {
+  left: 34px;
+  letter-spacing: 0.06px;
+  line-height: 21px;
+  position: absolute;
+  top: 4025px;
+  width: 247px;
+}
+
+.gio-mobile .text-70 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 21.2px;
+  position: absolute;
+  top: 4874px;
+}
+
+.gio-mobile .vector-285-1 {
+  height: 1px;
+  left: 38px;
+  position: absolute;
+  top: 4932px;
+  width: 236px;
+}
+
+.gio-mobile .wholehealthappv2-5 {
+  height: 202px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 4964px;
+  width: 240px;
+}
+
+.gio-mobile .secondary-research-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 5214px;
+  white-space: nowrap;
+}
+
+.gio-mobile .text-71 {
+  left: 34px;
+  letter-spacing: 0.06px;
+  line-height: 21px;
+  position: absolute;
+  top: 5255px;
+  width: 251px;
+}
+
+.gio-mobile .group-1117 {
+  align-items: flex-start;
+  display: flex;
+  height: 112px;
+  justify-content: center;
+  left: 40px;
+  min-width: 267px;
+  position: absolute;
+  top: 6813px;
+}
+
+.gio-mobile .overlap-group1-3 {
+  height: 127px;
+  margin-top: -5.24px;
+  position: relative;
+  width: 281px;
+}
+
+.gio-mobile .autism-tracker-new-frame-1-5 {
+  cursor: pointer;
+  height: 127px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.gio-mobile .overlap-group-2 {
+  height: 14px;
+  left: 207px;
+  position: absolute;
+  top: 92px;
+  width: 49px;
+}
+
+.gio-mobile .mouse-cursor-8 {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.gio-mobile .tap-me {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-poppins);
+  font-size: 8.1px;
+  font-weight: 500;
+  left: 14px;
+  letter-spacing: 0.24px;
+  line-height: 12.1px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.gio-mobile .text-72 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 6973px;
+  white-space: nowrap;
+}
+
+.gio-mobile .group-2594 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 34px;
+  min-height: 520px;
+  position: absolute;
+  top: 7643px;
+  width: 257px;
+}
+
+.gio-mobile .overlap-group3-2 {
+  height: 144px;
+  margin-left: 3px;
+  position: relative;
+  width: 237px;
+}
+
+.gio-mobile .number-2 {
+  left: 0;
+  letter-spacing: 2.88px;
+  line-height: 144px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gio-mobile .text-4 {
+  left: 5px;
+  letter-spacing: 0.51px;
+  line-height: 21.2px;
+  position: absolute;
+  top: 72px;
+}
+
+.gio-mobile .overlap-group2-9 {
+  height: 396px;
+  margin-left: -1px;
+  position: relative;
+  width: 252px;
+}
+
+.gio-mobile .text-74 {
+  left: 1px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  width: 251px;
+}
+
+.gio-mobile .a-human-sitting-2 {
+  height: 229px;
+  left: 0;
+  position: absolute;
+  top: 167px;
+  width: 162px;
+}
+
+.gio-mobile .group-2595 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 34px;
+  min-height: 460px;
+  position: absolute;
+  top: 8211px;
+  width: 259px;
+}
+
+.gio-mobile .overlap-group5-2 {
+  height: 144px;
+  position: relative;
+  width: 244px;
+}
+
+.gio-mobile .text-5 {
+  left: 5px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.gio-mobile .overlap-group4-2 {
+  align-self: center;
+  height: 338px;
+  margin-right: 1.0px;
+  position: relative;
+  width: 248px;
+}
+
+.gio-mobile .text-75 {
+  left: 0;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  width: 248px;
+}
+
+.gio-mobile .span-3 {
+  letter-spacing: 0.06px;
+}
+
+.gio-mobile .a-human-standing-4 {
+  height: 232px;
+  left: 0;
+  position: absolute;
+  top: 106px;
+  width: 173px;
+}
+
+.gio-mobile .group-2596 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 34px;
+  min-height: 510px;
+  position: absolute;
+  top: 8720px;
+  width: 257px;
+}
+
+.gio-mobile .overlap-group6-2 {
+  align-self: center;
+  height: 144px;
+  margin-right: 1.0px;
+  position: relative;
+  width: 246px;
+}
+
+.gio-mobile .text-78 {
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  margin-left: 4px;
+  min-height: 150px;
+  width: 233px;
+}
+
+.gio-mobile .human-4 {
+  height: 200px;
+  margin-left: -0.25px;
+  margin-top: 16px;
+  width: 216px;
+}
+
+.gio-mobile .group-2597 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 34px;
+  min-height: 495px;
+  position: absolute;
+  top: 9278px;
+  width: 254px;
+}
+
+.gio-mobile .overlap-group7-2 {
+  height: 144px;
+  position: relative;
+  width: 204px;
+}
+
+.gio-mobile .overlap-group8-2 {
+  height: 371px;
+  margin-left: -1.5px;
+  position: relative;
+  width: 250px;
+}
+
+.gio-mobile .text-79 {
+  left: 6px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  width: 243px;
+}
+
+.gio-mobile .a-human-standing-5 {
+  height: 228px;
+  left: 0;
+  position: absolute;
+  top: 143px;
+  width: 173px;
+}
+
+.gio-mobile .group-2598 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 34px;
+  min-height: 626px;
+  position: absolute;
+  top: 9822px;
+  width: 258px;
+}
+
+.gio-mobile .overlap-group9-2 {
+  align-self: center;
+  height: 144px;
+  margin-right: 1.0px;
+  position: relative;
+  width: 247px;
+}
+
+.gio-mobile .text-81 {
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  min-height: 238px;
+  width: 246px;
+}
+
+.gio-mobile .group-3 {
+  height: 228px;
+  margin-top: 16px;
+  width: 162px;
+}
+
+.gio-mobile .text-83 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 22.5px;
+  position: absolute;
+  top: 10512px;
+  width: 246px;
+}
+
+.gio-mobile .text-84 {
+  cursor: pointer;
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 10628px;
+  width: 237px;
+}
+
+.gio-mobile .span1 {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  letter-spacing: 0.06px;
+}
+
+.gio-mobile .group-1105 {
+  align-items: flex-start;
+  display: flex;
+  height: 166px;
+  left: 40px;
+  min-width: 223px;
+  position: absolute;
+  top: 10786px;
+}
+
+.gio-mobile .overlap-group1-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 3.02px;
+  box-shadow: 0px 6.03636360168457px 18.10909080505371px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  min-height: 166px;
+  padding: 22.3px 28.2px;
+  width: 219px;
+}
+
+.gio-mobile .flex-row-4 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  margin-top: 2px;
+  min-width: 163px;
+}
+
+.gio-mobile .understand-2 {
+  letter-spacing: 0.36px;
+  line-height: 12px;
+  margin-top: 0.6px;
+  min-height: 12px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.gio-mobile .overlap-group-3 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-43@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 53px;
+  min-width: 34px;
+  padding: 8.9px 8.9px;
+}
+
+.gio-mobile .thought-bubble-2 {
+  height: 15px;
+  width: 15px;
+}
+
+.gio-mobile .text-7 {
+  letter-spacing: 0.30px;
+  line-height: 15px;
+  margin-left: 0.15px;
+  margin-top: 17px;
+  min-height: 68px;
+  width: 156px;
+}
+
+.gio-mobile .overlap-group17-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3.07px;
+  box-shadow: 0px 6.143250942230225px 18.429752349853516px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 40px;
+  min-height: 169px;
+  padding: 25.4px 25.4px;
+  position: absolute;
+  top: 10998px;
+  width: 223px;
+}
+
+.gio-mobile .flex-row-5 {
+  align-items: center;
+  display: flex;
+  min-width: 169px;
+}
+
+.gio-mobile .track-2 {
+  letter-spacing: 0.36px;
+  line-height: 12px;
+  margin-bottom: 0.61px;
+  min-height: 12px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.gio-mobile .overlap-group26 {
+  align-items: flex-start;
+  background-image: url(../img/ellipse-47@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 97px;
+  min-width: 34px;
+  padding: 9.6px 9.4px;
+}
+
+.gio-mobile .chart-2 {
+  height: 15px;
+  width: 15px;
+}
+
+.gio-mobile .text-8 {
+  letter-spacing: 0.30px;
+  line-height: 15px;
+  margin-right: 0.36px;
+  margin-top: 9px;
+  min-height: 59px;
+  width: 168px;
+}
+
+.gio-mobile .overlap-group21 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3.07px;
+  box-shadow: 0px 6.143250942230225px 18.429752349853516px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 40px;
+  min-height: 169px;
+  padding: 25.1px 25.4px;
+  position: absolute;
+  top: 11213px;
+  width: 223px;
+}
+
+.gio-mobile .learn-2 {
+  letter-spacing: 0.36px;
+  line-height: 12px;
+  margin-top: 0.61px;
+  min-height: 12px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.gio-mobile .overlap-group2-8 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-48@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 98px;
+  min-width: 34px;
+  padding: 9.0px 9.4px;
+}
+
+.gio-mobile .graduate-2 {
+  height: 16px;
+  width: 15px;
+}
+
+.gio-mobile .text-9 {
+  letter-spacing: 0.30px;
+  line-height: 15px;
+  margin-right: 0.36px;
+  margin-top: 10px;
+  min-height: 29px;
+  width: 168px;
+}
+
+.gio-mobile .text-88 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 11503px;
+  width: 262px;
+}
+
+.gio-mobile .ideation-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 11446px;
+  white-space: nowrap;
+}
+
+.gio-mobile .vector-284-1 {
+  height: 1px;
+  left: 36px;
+  position: absolute;
+  top: 11478px;
+  width: 260px;
+}
+
+.gio-mobile .group-1116 {
+  height: 156px;
+  left: 34px;
+  position: absolute;
+  top: 11903px;
+  width: 249px;
+}
+
+.gio-mobile .overlap-group25 {
+  height: 222px;
+  left: 4px;
+  position: absolute;
+  top: 12071px;
+  width: 308px;
+}
+
+.gio-mobile .gio-concept-architecture-5 {
+  cursor: pointer;
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 308px;
+}
+
+.gio-mobile .mouse-cursor-9 {
+  height: 18px;
+  left: 137px;
+  position: absolute;
+  top: 27px;
+  width: 18px;
+}
+
+.gio-mobile .tap-me-1 {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-poppins);
+  font-size: 10.6px;
+  font-weight: 500;
+  left: 155px;
+  letter-spacing: 0.32px;
+  line-height: 15.9px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.gio-mobile .text-89 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 31.5px;
+  position: absolute;
+  top: 12317px;
+  white-space: nowrap;
+}
+
+.gio-mobile .name-5 {
+  left: 34px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 12630px;
+  white-space: nowrap;
+}
+
+.gio-mobile .text-90 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 14px;
+  position: absolute;
+  top: 12666px;
+  white-space: nowrap;
+}
+
+.gio-mobile .ellipse-48-10 {
+  height: 233px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 12365px;
+  width: 233px;
+}
+
+.gio-mobile .background-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 12712px;
+  white-space: nowrap;
+}
+
+.gio-mobile .text-91 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 12745px;
+  width: 248px;
+}
+
+.gio-mobile .goals-2 {
+  left: 36px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 13080px;
+  white-space: nowrap;
+}
+
+.gio-mobile .text-92 {
+  left: 36px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 13113px;
+  width: 235px;
+}
+
+.gio-mobile .pain-points-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 13371px;
+  white-space: nowrap;
+}
+
+.gio-mobile .text-93 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 13404px;
+  width: 223px;
+}
+
+.gio-mobile .user-story-map-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 13719px;
+  white-space: nowrap;
+}
+
+.gio-mobile .overlap-group16-2 {
+  height: 136px;
+  left: 27px;
+  position: absolute;
+  top: 13755px;
+  width: 268px;
+}
+
+.gio-mobile .untitled-user-s-ry-mapping-v2-5 {
+  cursor: pointer;
+  height: 136px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 268px;
+}
+
+.gio-mobile .mouse-cursor-10 {
+  height: 14px;
+  left: 20px;
+  position: absolute;
+  top: 102px;
+  width: 14px;
+}
+
+.gio-mobile .tap-me-2 {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-poppins);
+  font-size: 7.7px;
+  font-weight: 500;
+  left: 33px;
+  letter-spacing: 0.23px;
+  line-height: 11.6px;
+  position: absolute;
+  top: 104px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.gio-mobile .text-94 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 21.2px;
+  position: absolute;
+  top: 6248px;
+}
+
+.gio-mobile .text-95 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 6314px;
+  width: 250px;
+}
+
+.gio-mobile .text-96 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 13914px;
+  width: 254px;
+}
+
+.gio-mobile .text-97 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 31.5px;
+  position: absolute;
+  top: 14487px;
+  white-space: nowrap;
+}
+
+.gio-mobile .overlap-group20-1 {
+  height: 306px;
+  left: 19px;
+  position: absolute;
+  top: 14533px;
+  width: 307px;
+}
+
+.gio-mobile .parent-task-flow-5 {
+  cursor: pointer;
+  height: 306px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}
+
+.gio-mobile .mouse-cursor-11 {
+  height: 27px;
+  left: 163px;
+  position: absolute;
+  top: 238px;
+  width: 27px;
+}
+
+.gio-mobile .tap-me-3 {
+  left: 190px;
+  letter-spacing: 0.48px;
+  line-height: 23.9px;
+  position: absolute;
+  top: 241px;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.gio-mobile .sq-6 {
+  height: 260px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 14868px;
+  width: 277px;
+}
+
+.gio-mobile .text-98 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 22.5px;
+  position: absolute;
+  top: 15607px;
+  width: 254px;
+}
+
+.gio-mobile .text-99 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 15677px;
+  width: 257px;
+}
+
+.gio-mobile .text-100 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 15160px;
+  width: 255px;
+}
+
+.gio-mobile .colors-10 {
+  height: 220px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 16314px;
+  width: 236px;
+}
+
+.gio-mobile .colors-11 {
+  height: 182px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 16108px;
+  width: 233px;
+}
+
+.gio-mobile .text-101 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 16655px;
+  width: 256px;
+}
+
+.gio-mobile .text-102 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 17151px;
+  width: 254px;
+}
+
+.gio-mobile .final-design-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 16598px;
+  white-space: nowrap;
+}
+
+.gio-mobile .vector-284-2 {
+  height: 1px;
+  left: 35px;
+  position: absolute;
+  top: 16630px;
+  width: 256px;
+}
+
+.gio-mobile .text-103 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 22.5px;
+  position: absolute;
+  top: 17081px;
+  width: 216px;
+}
+
+.gio-mobile .overlap-group19-2 {
+  height: 1197px;
+  left: 47px;
+  position: absolute;
+  top: 17486px;
+  width: 225px;
+}
+
+.gio-mobile .home-v1 {
+  height: 374px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 223px;
+}
+
+.gio-mobile .task-track {
+  height: 457px;
+  left: 0;
+  position: absolute;
+  top: 371px;
+  width: 225px;
+}
+
+.gio-mobile .task11 {
+  height: 372px;
+  left: 1px;
+  position: absolute;
+  top: 825px;
+  width: 223px;
+}
+
+.gio-mobile .text-104 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 18785px;
+  width: 257px;
+}
+
+.gio-mobile .journal-entry-2 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 18743px;
+  white-space: nowrap;
+}
+
+.gio-mobile .journal {
+  height: 358px;
+  left: 48px;
+  position: absolute;
+  top: 19100px;
+  width: 223px;
+}
+
+.gio-mobile .negative-behavior {
+  height: 358px;
+  left: 48px;
+  position: absolute;
+  top: 19459px;
+  width: 223px;
+}
+
+.gio-mobile .negative-mood2 {
+  height: 358px;
+  left: 48px;
+  position: absolute;
+  top: 19818px;
+  width: 223px;
+}
+
+.gio-mobile .negative-mood3 {
+  height: 358px;
+  left: 48px;
+  position: absolute;
+  top: 20177px;
+  width: 223px;
+}
+
+.gio-mobile .negative-mood4 {
+  height: 358px;
+  left: 48px;
+  position: absolute;
+  top: 20536px;
+  width: 223px;
+}
+
+.gio-mobile .negative-mood4-1 {
+  height: 358px;
+  left: 48px;
+  position: absolute;
+  top: 20895px;
+  width: 223px;
+}
+
+.gio-mobile .text-105 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 21354px;
+  width: 257px;
+}
+
+.gio-mobile .data-analytics-2 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 21312px;
+  white-space: nowrap;
+}
+
+.gio-mobile .home-16 {
+  height: 589px;
+  left: 49px;
+  position: absolute;
+  top: 21564px;
+  width: 220px;
+}
+
+.gio-mobile .home-17 {
+  height: 685px;
+  left: 49px;
+  position: absolute;
+  top: 22154px;
+  width: 220px;
+}
+
+.gio-mobile .home-18 {
+  height: 596px;
+  left: 49px;
+  position: absolute;
+  top: 22840px;
+  width: 220px;
+}
+
+.gio-mobile .text-106 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 23538px;
+  width: 245px;
+}
+
+.gio-mobile .childs-profile-2 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 23496px;
+  white-space: nowrap;
+}
+
+.gio-mobile .preliminary {
+  height: 363px;
+  left: 51px;
+  position: absolute;
+  top: 23854px;
+  width: 218px;
+}
+
+.gio-mobile .preliminary-1 {
+  height: 363px;
+  left: 51px;
+  position: absolute;
+  top: 24219px;
+  width: 218px;
+}
+
+.gio-mobile .childs-profilefinished {
+  height: 461px;
+  left: 36px;
+  position: absolute;
+  top: 24584px;
+  width: 247px;
+}
+
+.gio-mobile .text-107 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 25147px;
+  width: 245px;
+}
+
+.gio-mobile .resource-center-2 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 25105px;
+  white-space: nowrap;
+}
+
+.gio-mobile .overlap-group15-2 {
+  height: 1443px;
+  left: 40px;
+  position: absolute;
+  top: 25525px;
+  width: 239px;
+}
+
+.gio-mobile .resources {
+  height: 360px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 215px;
+}
+
+.gio-mobile .course {
+  height: 390px;
+  left: 12px;
+  position: absolute;
+  top: 346px;
+  width: 215px;
+}
+
+.gio-mobile .course-overview {
+  height: 389px;
+  left: 12px;
+  position: absolute;
+  top: 708px;
+  width: 215px;
+}
+
+.gio-mobile .dialog {
+  height: 360px;
+  left: 0;
+  position: absolute;
+  top: 1083px;
+  width: 239px;
+}
+
+.gio-mobile .chatbot1 {
+  height: 359px;
+  left: 52px;
+  position: absolute;
+  top: 26970px;
+  width: 215px;
+}
+
+.gio-mobile .chatbot2 {
+  height: 359px;
+  left: 52px;
+  position: absolute;
+  top: 27331px;
+  width: 215px;
+}
+
+.gio-mobile .medicine-tracker-2 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 27750px;
+  white-space: nowrap;
+}
+
+.gio-mobile .text-108 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 27792px;
+  width: 246px;
+}
+
+.gio-mobile .group-1105-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 166px;
+  left: 48px;
+  min-width: 223px;
+  position: absolute;
+  top: 29552px;
+}
+
+.gio-mobile .overlap-group-4 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-43-1@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 53px;
+  min-width: 34px;
+  padding: 8.9px 8.9px;
+}
+
+.gio-mobile .thought-bubble-3 {
+  height: 15px;
+  width: 15px;
+}
+
+.gio-mobile .overlap-group18-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3.07px;
+  box-shadow: 0px 6.143250942230225px 18.429752349853516px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 48px;
+  min-height: 169px;
+  padding: 25.4px 25.4px;
+  position: absolute;
+  top: 29764px;
+  width: 223px;
+}
+
+.gio-mobile .overlap-group28 {
+  align-items: flex-start;
+  background-image: url(../img/ellipse-47-1@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  margin-left: 97px;
+  min-width: 34px;
+  padding: 9.6px 9.4px;
+}
+
+.gio-mobile .chart-3 {
+  height: 15px;
+  width: 15px;
+}
+
+.gio-mobile .overlap-group14-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3.07px;
+  box-shadow: 0px 6.143250942230225px 18.429752349853516px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 48px;
+  min-height: 169px;
+  padding: 25.1px 25.4px;
+  position: absolute;
+  top: 29979px;
+  width: 223px;
+}
+
+.gio-mobile .learn-3 {
+  letter-spacing: 0.36px;
+  line-height: 12px;
+  margin-top: 0.62px;
+  min-height: 12px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.gio-mobile .overlap-group23 {
+  height: 1471px;
+  left: 47px;
+  position: absolute;
+  top: 28020px;
+  width: 225px;
+}
+
+.gio-mobile .medicine-add {
+  height: 445px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 217px;
+}
+
+.gio-mobile .medicine {
+  height: 377px;
+  left: 4px;
+  position: absolute;
+  top: 436px;
+  width: 217px;
+}
+
+.gio-mobile .lexapro {
+  height: 664px;
+  left: 0;
+  position: absolute;
+  top: 807px;
+  width: 225px;
+}
+
+.gio-mobile .text-112 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 30212px;
+  white-space: nowrap;
+}
+
+.gio-mobile .vector-285-2 {
+  height: 1px;
+  left: 36px;
+  position: absolute;
+  top: 30244px;
+  width: 222px;
+}
+
+.gio-mobile .text-113 {
+  left: 34px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 30269px;
+  width: 262px;
+}
+
+.gio-mobile .program-hd-4 {
+  height: 113px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 31197px;
+  width: 209px;
+}
+
+.gio-mobile .thank-you-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 31393px;
+  white-space: nowrap;
+}
+
+.gio-mobile .vector-286 {
+  height: 2px;
+  left: 36px;
+  position: absolute;
+  top: 31426px;
+  width: 236px;
+}
+
+.gio-mobile .grinning-face-w-smiling-eyes-6 {
+  height: 24px;
+  left: 153px;
+  position: absolute;
+  top: 31390px;
+  width: 24px;
+}
+
+.gio-mobile .text-114 {
+  cursor: pointer;
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  text-decoration: underline;
+  top: 31507px;
+  width: 238px;
+}
+
+.gio-mobile .group-1105-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 36px;
+  left: 26px;
+  min-width: 270px;
+  position: absolute;
+  top: 31702px;
+}
+
+.gio-mobile .overlap-group12-2 {
+  height: 36px;
+  position: relative;
+  width: 268px;
+}
+
+.gio-mobile .text-115 {
+  left: 0;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.gio-mobile .sparkling-heart-1-2 {
+  height: 20px;
+  left: 92px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.gio-mobile .group-2593 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 34px;
+  min-height: 581px;
+  position: absolute;
+  top: 7014px;
+  width: 272px;
+}
+
+.gio-mobile .overlap-group13-2 {
+  height: 144px;
+  position: relative;
+  width: 255px;
+}
+
+.gio-mobile .text-117 {
+  left: 2px;
+  letter-spacing: 0.51px;
+  line-height: 21.2px;
+  position: absolute;
+  top: 61px;
+  width: 253px;
+}
+
+.gio-mobile .text-116 {
+  align-self: center;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  margin-right: 1.0px;
+  min-height: 215px;
+  width: 261px;
+}
+
+.gio-mobile .human-5 {
+  height: 206px;
+  margin-left: 4.88px;
+  margin-top: 16px;
+  width: 204px;
+}
+
+.gio-mobile .board-certified-nalyst-bcba-1-1 {
+  height: 40px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 1717px;
+  width: 226px;
+}
+
+.gio-mobile .group-1118-2 {
+  height: 358px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 600px;
+  width: 320px;
+}
+
+.gio-mobile .doctor-1-2 {
+  height: 46px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 1658px;
+  width: 44px;
+}
+
+.gio-mobile .list-1-2 {
+  height: 46px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 1876px;
+  width: 38px;
+}
+/* screen - gio-tablet */
+
+.gio-tablet {
+  background-color: var(--white);
+  height: 23108px;
+  position: relative;
+  width: 768px;
+}
+
+.gio-tablet .image-1-3 {
+  cursor: pointer;
+  height: 90px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 65px;
+}
+
+.gio-tablet .text-165 {
+  left: 64px;
+  letter-spacing: 1.20px;
+  line-height: 50px;
+  position: absolute;
+  top: 381px;
+  white-space: nowrap;
+  width: 628px;
+}
+
+.gio-tablet .gio-4 {
+  color: var(--portage-2);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 700;
+  left: 64px;
+  letter-spacing: 1.20px;
+  line-height: 40px;
+  position: absolute;
+  top: 451px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-166 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  position: absolute;
+  top: 536px;
+  width: 628px;
+}
+
+.gio-tablet .x100-4 {
+  height: 106px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 612px;
+  width: 106px;
+}
+
+.gio-tablet .material-icons-blackmenu-1 {
+  background-image: url(../img/shape@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 27px;
+  left: 651px;
+  position: absolute;
+  top: 172px;
+  width: 41px;
+}
+
+.gio-tablet .text-167 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 1614px;
+  white-space: nowrap;
+}
+
+.gio-tablet .vector-3 {
+  height: 51px;
+  left: 503px;
+  position: absolute;
+  top: 1699px;
+  width: 52px;
+}
+
+.gio-tablet .text-168 {
+  left: 145px;
+  letter-spacing: 0.55px;
+  line-height: 23.1px;
+  position: absolute;
+  text-align: center;
+  top: 1789px;
+  width: 179px;
+}
+
+.gio-tablet .noun-autism-aw-1130071000000-3 {
+  height: 56px;
+  left: 207px;
+  position: absolute;
+  top: 1697px;
+  width: 56px;
+}
+
+.gio-tablet .text-169 {
+  left: 145px;
+  letter-spacing: 0.44px;
+  line-height: 18.5px;
+  position: absolute;
+  top: 1921px;
+  width: 250px;
+}
+
+.gio-tablet .text-170 {
+  left: 395px;
+  letter-spacing: 0.55px;
+  line-height: 23.1px;
+  position: absolute;
+  text-align: center;
+  top: 1789px;
+  width: 243px;
+}
+
+.gio-tablet .text-171 {
+  left: 421px;
+  letter-spacing: 0.44px;
+  line-height: 18.5px;
+  position: absolute;
+  top: 1921px;
+  width: 217px;
+}
+
+.gio-tablet .text-172 {
+  left: 129px;
+  letter-spacing: 0.44px;
+  line-height: 18.5px;
+  position: absolute;
+  top: 2354px;
+  width: 217px;
+}
+
+.gio-tablet .text-173 {
+  left: 403px;
+  letter-spacing: 0.55px;
+  line-height: 23.1px;
+  position: absolute;
+  text-align: center;
+  top: 2223px;
+  width: 230px;
+}
+
+.gio-tablet .text-174 {
+  left: 420px;
+  letter-spacing: 0.44px;
+  line-height: 18.5px;
+  position: absolute;
+  top: 2354px;
+  width: 217px;
+}
+
+.gio-tablet .project-overview-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 2583px;
+  white-space: nowrap;
+}
+
+.gio-tablet .vector-283 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 2635px;
+  width: 627px;
+}
+
+.gio-tablet .group-1102 {
+  height: 238px;
+  left: 47px;
+  position: absolute;
+  top: 2689px;
+  width: 662px;
+}
+
+.gio-tablet .start-date-3 {
+  left: 86px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2953px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-tablet .name-6 {
+  left: 65px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2980px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-tablet .duration-3 {
+  left: 237px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2953px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-tablet .address-3 {
+  left: 216px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2980px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-tablet .hourglass-3 {
+  height: 16px;
+  left: 216px;
+  position: absolute;
+  top: 2953px;
+  width: 16px;
+}
+
+.gio-tablet .calendar-alt-3 {
+  height: 17px;
+  left: 64px;
+  position: absolute;
+  top: 2953px;
+  width: 16px;
+}
+
+.gio-tablet .tools-3 {
+  left: 390px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2953px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-tablet .figma-miro-3 {
+  left: 369px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2980px;
+  width: 116px;
+}
+
+.gio-tablet .edit-3 {
+  height: 16px;
+  left: 367px;
+  position: absolute;
+  top: 2953px;
+  width: 16px;
+}
+
+.gio-tablet .team-3 {
+  left: 546px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2953px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.gio-tablet .text-175 {
+  cursor: pointer;
+  left: 525px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2980px;
+  width: 125px;
+}
+
+.gio-tablet .span-4 {
+  letter-spacing: 0.08px;
+}
+
+.gio-tablet .user-3 {
+  height: 16px;
+  left: 525px;
+  position: absolute;
+  top: 2953px;
+  width: 16px;
+}
+
+.gio-tablet .text-176 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 3092px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-177 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3144px;
+  width: 636px;
+}
+
+.gio-tablet .problem-statement-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 3423px;
+  white-space: nowrap;
+}
+
+.gio-tablet .vector-283-1 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 3473px;
+  width: 627px;
+}
+
+.gio-tablet .text-178 {
+  left: 67px;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  position: absolute;
+  top: 3506px;
+  width: 636px;
+}
+
+.gio-tablet .text-179 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 4000px;
+  white-space: nowrap;
+}
+
+.gio-tablet .vector-283-2 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 4052px;
+  width: 640px;
+}
+
+.gio-tablet .wholehealthappv2-4 {
+  height: 529px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 4085px;
+  width: 628px;
+}
+
+.gio-tablet .secondary-research-3 {
+  left: 66px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 4678px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-180 {
+  left: 64px;
+  letter-spacing: 0.08px;
+  line-height: 24px;
+  position: absolute;
+  top: 4729px;
+  width: 642px;
+}
+
+.gio-tablet .text-181 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 5337px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-182 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 5420px;
+  width: 649px;
+}
+
+.gio-tablet .overlap-group11-2 {
+  height: 297px;
+  left: 48px;
+  position: absolute;
+  top: 5699px;
+  width: 660px;
+}
+
+.gio-tablet .autism-tracker-new-frame-1-4 {
+  cursor: pointer;
+  height: 297px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 660px;
+}
+
+.gio-tablet .group-1115 {
+  display: flex;
+  height: 33px;
+  left: 488px;
+  position: absolute;
+  top: 216px;
+  width: 117px;
+}
+
+.gio-tablet .mouse-cursor-12 {
+  height: 32px;
+  width: 32px;
+}
+
+.gio-tablet .tap-me-4 {
+  height: 29px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  margin-top: 4px;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.gio-tablet .text-183 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 6054px;
+  white-space: nowrap;
+}
+
+.gio-tablet .group-2584 {
+  align-items: flex-start;
+  display: flex;
+  height: 314px;
+  left: 64px;
+  min-width: 658px;
+  position: absolute;
+  top: 6455px;
+}
+
+.gio-tablet .a-human-sitting-3 {
+  align-self: flex-end;
+  height: 229px;
+  margin-bottom: -20px;
+  margin-left: -1px;
+  width: 162px;
+}
+
+.gio-tablet .flex-col-17 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 140px;
+  min-height: 282px;
+  width: 351px;
+}
+
+.gio-tablet .overlap-group-6 {
+  height: 144px;
+  position: relative;
+  width: 308px;
+}
+
+.gio-tablet .number-3 {
+  left: 0;
+  letter-spacing: 2.88px;
+  line-height: 144px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-1-1 {
+  left: 5px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-184 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 351px;
+}
+
+.gio-tablet .group-2586 {
+  display: flex;
+  height: 282px;
+  left: 64px;
+  position: absolute;
+  top: 6801px;
+  width: 654px;
+}
+
+.gio-tablet .group-2585 {
+  align-items: flex-end;
+  display: flex;
+  height: 282px;
+  min-width: 660px;
+}
+
+.gio-tablet .flex-col-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 282px;
+  width: 408px;
+}
+
+.gio-tablet .overlap-group-7 {
+  height: 144px;
+  position: relative;
+  width: 272px;
+}
+
+.gio-tablet .text-186 {
+  align-self: flex-end;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 403px;
+}
+
+.gio-tablet .a-human-standing-6 {
+  height: 232px;
+  margin-bottom: 3.87px;
+  margin-left: 80px;
+  width: 173px;
+}
+
+.gio-tablet .group-2587 {
+  align-items: flex-end;
+  display: flex;
+  height: 295px;
+  left: 64px;
+  min-width: 657px;
+  position: absolute;
+  top: 7115px;
+}
+
+.gio-tablet .human-6 {
+  height: 200px;
+  margin-bottom: 17.11px;
+  width: 216px;
+}
+
+.gio-tablet .flex-col-19 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 84px;
+  min-height: 295px;
+  width: 351px;
+}
+
+.gio-tablet .overlap-group1-4 {
+  height: 144px;
+  position: relative;
+  width: 274px;
+}
+
+.gio-tablet .text-188 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 151px;
+  width: 351px;
+}
+
+.gio-tablet .group-2588 {
+  align-items: flex-end;
+  display: flex;
+  height: 282px;
+  left: 64px;
+  min-width: 646px;
+  position: absolute;
+  top: 7442px;
+}
+
+.gio-tablet .flex-col-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 282px;
+  width: 399px;
+}
+
+.gio-tablet .overlap-group2-10 {
+  height: 144px;
+  position: relative;
+  width: 227px;
+}
+
+.gio-tablet .text-190 {
+  align-self: flex-end;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 394px;
+}
+
+.gio-tablet .a-human-standing-7 {
+  height: 228px;
+  margin-bottom: -8.13px;
+  margin-left: 74px;
+  width: 173px;
+}
+
+.gio-tablet .group-2589 {
+  align-items: flex-start;
+  display: flex;
+  height: 354px;
+  left: 64px;
+  min-width: 654px;
+  position: absolute;
+  top: 7756px;
+}
+
+.gio-tablet .group-4 {
+  align-self: flex-end;
+  height: 228px;
+  margin-bottom: -0.05px;
+  margin-left: -1px;
+  width: 162px;
+}
+
+.gio-tablet .flex-col-21 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 134px;
+  min-height: 282px;
+  width: 353px;
+}
+
+.gio-tablet .overlap-group3-3 {
+  height: 144px;
+  position: relative;
+  width: 343px;
+}
+
+.gio-tablet .text-192 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 138px;
+  width: 353px;
+}
+
+.gio-tablet .text-194 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 8190px;
+}
+
+.gio-tablet .text-195 {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 8292px;
+  width: 649px;
+}
+
+.gio-tablet .group-2590 {
+  align-items: flex-start;
+  display: flex;
+  height: 275px;
+  left: 64px;
+  min-width: 634px;
+  position: absolute;
+  top: 8396px;
+}
+
+.gio-tablet .overlap-group4-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  min-height: 275px;
+  padding: 24px 25px;
+  width: 630px;
+}
+
+.gio-tablet .flex-row-7 {
+  align-items: center;
+  display: flex;
+  margin-top: 17px;
+  min-width: 558px;
+}
+
+.gio-tablet .understand-3 {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 126px;
+  white-space: nowrap;
+}
+
+.gio-tablet .group-1102-1 {
+  background-image: url(../img/ellipse-34@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  margin-left: 377px;
+  width: 55px;
+}
+
+.gio-tablet .thought-bubble-4 {
+  height: 24px;
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 24px;
+}
+
+.gio-tablet .text-196 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 42px;
+  min-height: 113px;
+  width: 558px;
+}
+
+.gio-tablet .group-2591 {
+  align-items: flex-start;
+  display: flex;
+  height: 275px;
+  left: 66px;
+  min-width: 632px;
+  position: absolute;
+  top: 8719px;
+}
+
+.gio-tablet .overlap-group5-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  min-height: 275px;
+  padding: 41px 26px;
+  width: 628px;
+}
+
+.gio-tablet .flex-row-6 {
+  align-items: center;
+  display: flex;
+  min-width: 555px;
+}
+
+.gio-tablet .track-3 {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.gio-tablet .overlap-group-5 {
+  align-items: flex-start;
+  background-image: url(../img/ellipse-32@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 440px;
+  min-width: 55px;
+  padding: 14.7px 15px;
+}
+
+.gio-tablet .chart-4 {
+  height: 25px;
+  width: 24px;
+}
+
+.gio-tablet .text-10 {
+  align-self: center;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-right: 17.0px;
+  margin-top: 42px;
+  min-height: 48px;
+  width: 517px;
+}
+
+.gio-tablet .group-2592 {
+  align-items: flex-start;
+  display: flex;
+  height: 275px;
+  left: 66px;
+  min-width: 632px;
+  position: absolute;
+  top: 9042px;
+}
+
+.gio-tablet .overlap-group6-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  height: 275px;
+  justify-content: flex-end;
+  min-width: 628px;
+  padding: 41px 25px;
+}
+
+.gio-tablet .flex-col-22 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30.0px;
+  min-height: 127px;
+  width: 500px;
+}
+
+.gio-tablet .learn-4 {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-198 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-top: 59px;
+  min-height: 48px;
+  width: 500px;
+}
+
+.gio-tablet .overlap-group-8 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-35@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 1px;
+  min-width: 55px;
+  padding: 14.5px 15px;
+}
+
+.gio-tablet .graduate-3 {
+  height: 26px;
+  width: 24px;
+}
+
+.gio-tablet .text-199 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 9482px;
+  width: 646px;
+}
+
+.gio-tablet .ideation-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 9397px;
+  white-space: nowrap;
+}
+
+.gio-tablet .vector-283-3 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 9449px;
+  width: 638px;
+}
+
+.gio-tablet .group-1115-1 {
+  height: 298px;
+  left: 146px;
+  position: absolute;
+  top: 9730px;
+  width: 476px;
+}
+
+.gio-tablet .overlap-group12-3 {
+  height: 349px;
+  left: 132px;
+  position: absolute;
+  top: 10072px;
+  width: 504px;
+}
+
+.gio-tablet .gio-concept-architecture-4 {
+  cursor: pointer;
+  height: 349px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 504px;
+}
+
+.gio-tablet .mouse-cursor-13 {
+  height: 32px;
+  left: 222px;
+  position: absolute;
+  top: 32px;
+  width: 32px;
+}
+
+.gio-tablet .tap-me-5 {
+  left: 254px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-200 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 10445px;
+  white-space: nowrap;
+}
+
+.gio-tablet .background-3 {
+  left: 342px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  text-decoration: underline;
+  top: 10528px;
+  white-space: nowrap;
+}
+
+.gio-tablet .name-7 {
+  left: 64px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  position: absolute;
+  top: 10830px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-201 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 10878px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-202 {
+  left: 342px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10567px;
+  width: 350px;
+}
+
+.gio-tablet .ellipse-48-9 {
+  height: 233px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 10536px;
+  width: 233px;
+}
+
+.gio-tablet .goals-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  text-decoration: underline;
+  top: 10958px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-203 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10997px;
+  width: 235px;
+}
+
+.gio-tablet .pain-points-3 {
+  left: 345px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  text-decoration: underline;
+  top: 10958px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-204 {
+  left: 345px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10997px;
+  width: 223px;
+}
+
+.gio-tablet .user-story-map-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 11372px;
+  white-space: nowrap;
+}
+
+.gio-tablet .overlap-group13-3 {
+  height: 333px;
+  left: 48px;
+  position: absolute;
+  top: 11412px;
+  width: 657px;
+}
+
+.gio-tablet .untitled-user-s-ry-mapping-v2-4 {
+  cursor: pointer;
+  height: 333px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 657px;
+}
+
+.gio-tablet .mouse-cursor-14 {
+  height: 32px;
+  left: 49px;
+  position: absolute;
+  top: 250px;
+  width: 32px;
+}
+
+.gio-tablet .tap-me-6 {
+  left: 81px;
+  letter-spacing: 0.57px;
+  line-height: 28.5px;
+  position: absolute;
+  top: 254px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-205 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 11788px;
+  width: 627px;
+}
+
+.gio-tablet .text-206 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 12140px;
+  white-space: nowrap;
+}
+
+.gio-tablet .overlap-group14-3 {
+  height: 527px;
+  left: 34px;
+  position: absolute;
+  top: 12187px;
+  width: 528px;
+}
+
+.gio-tablet .parent-task-flow-4 {
+  cursor: pointer;
+  height: 527px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 528px;
+}
+
+.gio-tablet .mouse-cursor-15 {
+  height: 28px;
+  left: 343px;
+  position: absolute;
+  top: 339px;
+  width: 27px;
+}
+
+.gio-tablet .tap-me-7 {
+  left: 369px;
+  letter-spacing: 0.48px;
+  line-height: 23.9px;
+  position: absolute;
+  top: 343px;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.gio-tablet .sq-5 {
+  height: 466px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 12721px;
+  width: 498px;
+}
+
+.gio-tablet .text-207 {
+  left: 67px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 13515px;
+  white-space: nowrap;
+  width: 459px;
+}
+
+.gio-tablet .text-208 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 13567px;
+  width: 625px;
+}
+
+.gio-tablet .colors-8 {
+  height: 579px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 14379px;
+  width: 622px;
+}
+
+.gio-tablet .colors-9 {
+  height: 484px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 13847px;
+  width: 622px;
+}
+
+.gio-tablet .text-209 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 13235px;
+  width: 627px;
+}
+
+.gio-tablet .text-210 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 15123px;
+  width: 627px;
+}
+
+.gio-tablet .text-211 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 15431px;
+  width: 627px;
+}
+
+.gio-tablet .final-design-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 15038px;
+  white-space: nowrap;
+}
+
+.gio-tablet .vector-283-4 {
+  height: 2px;
+  left: 64px;
+  position: absolute;
+  top: 15090px;
+  width: 627px;
+}
+
+.gio-tablet .text-212 {
+  left: 65px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 15379px;
+  white-space: nowrap;
+}
+
+.gio-tablet .group-1102-2 {
+  height: 450px;
+  left: 49px;
+  position: absolute;
+  top: 15620px;
+  width: 657px;
+}
+
+.gio-tablet .text-213 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 16182px;
+  width: 626px;
+}
+
+.gio-tablet .journal-entry-3 {
+  left: 69px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 16130px;
+  white-space: nowrap;
+}
+
+.gio-tablet .group-1102-3 {
+  height: 720px;
+  left: 48px;
+  position: absolute;
+  top: 16347px;
+  width: 656px;
+}
+
+.gio-tablet .text-214 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 17178px;
+  width: 617px;
+}
+
+.gio-tablet .data-analytics-3 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 17126px;
+  white-space: nowrap;
+}
+
+.gio-tablet .group-1102-4 {
+  height: 685px;
+  left: 48px;
+  position: absolute;
+  top: 17295px;
+  width: 648px;
+}
+
+.gio-tablet .text-215 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 18092px;
+  width: 621px;
+}
+
+.gio-tablet .childs-profile-3 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 18040px;
+  white-space: nowrap;
+}
+
+.gio-tablet .group-1102-5 {
+  height: 461px;
+  left: 49px;
+  position: absolute;
+  top: 18282px;
+  width: 641px;
+}
+
+.gio-tablet .text-216 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 18855px;
+  width: 621px;
+}
+
+.gio-tablet .resource-center-3 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 18803px;
+  white-space: nowrap;
+}
+
+.gio-tablet .group-1102-6 {
+  height: 740px;
+  left: 49px;
+  position: absolute;
+  top: 19045px;
+  width: 634px;
+}
+
+.gio-tablet .medicine-tracker-3 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 19845px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-217 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 19897px;
+  width: 640px;
+}
+
+.gio-tablet .group-1102-7 {
+  height: 664px;
+  left: 49px;
+  position: absolute;
+  top: 20015px;
+  width: 639px;
+}
+
+.gio-tablet .overlap-group10-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 69px;
+  min-height: 275px;
+  padding: 24px 26px;
+  position: absolute;
+  top: 20723px;
+  width: 628px;
+}
+
+.gio-tablet .flex-row-8 {
+  align-items: center;
+  display: flex;
+  margin-top: 17px;
+  min-width: 555px;
+}
+
+.gio-tablet .group-1102-8 {
+  background-image: url(../img/ellipse-34@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  margin-left: 374px;
+  width: 55px;
+}
+
+.gio-tablet .text-218 {
+  align-self: center;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  margin-right: 17.0px;
+  margin-top: 42px;
+  min-height: 113px;
+  width: 517px;
+}
+
+.gio-tablet .overlap-group9-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 71px;
+  min-height: 275px;
+  padding: 41px 26px;
+  position: absolute;
+  top: 21046px;
+  width: 628px;
+}
+
+.gio-tablet .overlap-group15-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  flex-direction: column;
+  left: 71px;
+  min-height: 275px;
+  padding: 41px 26px;
+  position: absolute;
+  top: 21369px;
+  width: 628px;
+}
+
+.gio-tablet .learn-5 {
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  margin-top: 1.0px;
+  min-height: 20px;
+  min-width: 59px;
+  white-space: nowrap;
+}
+
+.gio-tablet .overlap-group17-3 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-35@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  margin-left: 441px;
+  min-width: 55px;
+  padding: 14.5px 15px;
+}
+
+.gio-tablet .text-221 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 21724px;
+  white-space: nowrap;
+}
+
+.gio-tablet .vector-283-5 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 21776px;
+  width: 629px;
+}
+
+.gio-tablet .text-222 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 21809px;
+  width: 623px;
+}
+
+.gio-tablet .program-hd-4-1 {
+  height: 337px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 22217px;
+  width: 628px;
+}
+
+.gio-tablet .thank-you-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 22645px;
+  white-space: nowrap;
+}
+
+.gio-tablet .vector-283-6 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 22697px;
+  width: 625px;
+}
+
+.gio-tablet .grinning-face-w-smiling-eyes-4 {
+  height: 30px;
+  left: 190px;
+  position: absolute;
+  top: 22634px;
+  width: 30px;
+}
+
+.gio-tablet .text-223 {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  text-decoration: underline;
+  top: 22778px;
+  white-space: nowrap;
+  width: 456px;
+}
+
+.gio-tablet .group-1103 {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 180px;
+  min-width: 410px;
+  position: absolute;
+  top: 22973px;
+}
+
+.gio-tablet .overlap-group7-3 {
+  height: 51px;
+  position: relative;
+  width: 408px;
+}
+
+.gio-tablet .text-224 {
+  left: 0;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+}
+
+.gio-tablet .sparkling-heart-1-3 {
+  height: 30px;
+  left: 141px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.gio-tablet .group-2583 {
+  align-items: center;
+  display: flex;
+  height: 318px;
+  left: 64px;
+  min-width: 659px;
+  position: absolute;
+  top: 6105px;
+}
+
+.gio-tablet .flex-col-23 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 318px;
+  width: 411px;
+}
+
+.gio-tablet .overlap-group8-3 {
+  height: 144px;
+  margin-right: 2px;
+  position: relative;
+  width: 409px;
+}
+
+.gio-tablet .text-226 {
+  left: 4px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.gio-tablet .text-225 {
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  min-height: 174px;
+  width: 406px;
+}
+
+.gio-tablet .human-7 {
+  height: 206px;
+  margin-left: 38px;
+  margin-top: 39.77px;
+  width: 204px;
+}
+
+.gio-tablet .board-certified-analyst-bcba-3 {
+  height: 72px;
+  left: 143px;
+  object-fit: cover;
+  position: absolute;
+  top: 2223px;
+  width: 184px;
+}
+
+.gio-tablet .group-1118-1-2 {
+  height: 662px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 798px;
+  width: 592px;
+}
+
+.gio-tablet .vector-284-3 {
+  height: 2px;
+  left: 64px;
+  position: absolute;
+  top: 5387px;
+  width: 640px;
+}
+
+.gio-tablet .list-1-3 {
+  height: 46px;
+  left: 500px;
+  object-fit: cover;
+  position: absolute;
+  top: 2137px;
+  width: 38px;
+}
+
+.gio-tablet .doctor-1-3 {
+  height: 46px;
+  left: 212px;
+  object-fit: cover;
+  position: absolute;
+  top: 2137px;
+  width: 44px;
+}
+@media screen and (max-width: 767px) {
+  .screen.gio-tablet { 
+    display: none;
+   }
+  .screen.gio-mac { 
+    display: none;
+   }
+  .screen.gio { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1151px) {
+  .screen.gio-mobile { 
+    display: none;
+   }
+  .screen.gio-mac { 
+    display: none;
+   }
+  .screen.gio { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1152px) and (max-width: 1439px) {
+  .screen.gio-mobile { 
+    display: none;
+   }
+  .screen.gio-tablet { 
+    display: none;
+   }
+  .screen.gio { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.gio-mobile { 
+    display: none;
+   }
+  .screen.gio-tablet { 
+    display: none;
+   }
+  .screen.gio-mac { 
+    display: none;
+   }
+}

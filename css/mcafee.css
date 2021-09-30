@@ -1,0 +1,4613 @@
+/* screen - mcafee */
+
+.mcafee {
+  background-color: var(--white);
+  height: 12194px;
+  position: relative;
+  width: 1440px;
+}
+
+.mcafee .image-1 {
+  cursor: pointer;
+  height: 90px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 65px;
+}
+
+.mcafee .group-2561 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 154px;
+  min-width: 103px;
+  position: absolute;
+  top: 971px;
+}
+
+.mcafee .overlap-group {
+  height: 20px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 103px;
+}
+
+.mcafee .fill-1 {
+  height: 12px;
+  left: 40px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.mcafee .fill-2 {
+  height: 16px;
+  left: 51px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.mcafee .fill-3 {
+  height: 16px;
+  left: 66px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.mcafee .fill-4 {
+  height: 16px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.mcafee .fill-5 {
+  height: 12px;
+  left: 74px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.mcafee .fill-6 {
+  height: 12px;
+  left: 87px;
+  position: absolute;
+  top: 4px;
+  width: 13px;
+}
+
+.mcafee .group-12 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+
+.mcafee .mc-afee {
+  color: var(--thunderbird);
+  font-family: var(--font-family-poppins);
+  font-size: 50px;
+  font-weight: 700;
+  left: 154px;
+  letter-spacing: 1.50px;
+  line-height: 50px;
+  position: absolute;
+  top: 493px;
+  white-space: nowrap;
+}
+
+.mcafee .project-overview {
+  left: 154px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 1220px;
+  white-space: nowrap;
+}
+
+.mcafee .vector-265 {
+  height: 2px;
+  left: 155px;
+  position: absolute;
+  top: 1272px;
+  width: 1177px;
+}
+
+.mcafee .text-131 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 2077px;
+  white-space: nowrap;
+}
+
+.mcafee .text-132 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2129px;
+  width: 693px;
+}
+
+.mcafee .start-date {
+  left: 965px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2083px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee .january-2021 {
+  left: 944px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2110px;
+  width: 90px;
+}
+
+.mcafee .tools {
+  left: 966px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2190px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee .figma-user-zoom {
+  left: 945px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2217px;
+  width: 116px;
+}
+
+.mcafee .edit {
+  height: 16px;
+  left: 943px;
+  position: absolute;
+  top: 2190px;
+  width: 16px;
+}
+
+.mcafee .duration {
+  left: 1150px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2083px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee .address {
+  left: 1129px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2110px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee .hourglass {
+  height: 16px;
+  left: 1129px;
+  position: absolute;
+  top: 2083px;
+  width: 16px;
+}
+
+.mcafee .team {
+  left: 1150px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2190px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee .name {
+  left: 1129px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2217px;
+  width: 169px;
+}
+
+.mcafee .user {
+  height: 16px;
+  left: 1129px;
+  position: absolute;
+  top: 2190px;
+  width: 16px;
+}
+
+.mcafee .calendar-alt {
+  height: 17px;
+  left: 943px;
+  position: absolute;
+  top: 2083px;
+  width: 16px;
+}
+
+.mcafee .text-133 {
+  left: 154px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 3113px;
+  white-space: nowrap;
+}
+
+.mcafee .vector-266 {
+  height: 2px;
+  left: 155px;
+  position: absolute;
+  top: 3165px;
+  width: 1177px;
+}
+
+.mcafee .text-134 {
+  left: 154px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 4282px;
+  white-space: nowrap;
+}
+
+.mcafee .biography {
+  left: 471px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4367px;
+  white-space: nowrap;
+}
+
+.mcafee .goals {
+  left: 822px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4367px;
+  white-space: nowrap;
+}
+
+.mcafee .vector-267 {
+  height: 2px;
+  left: 155px;
+  position: absolute;
+  top: 4334px;
+  width: 1177px;
+}
+
+.mcafee .ideation {
+  left: 154px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 5285px;
+  white-space: nowrap;
+}
+
+.mcafee .vector-268 {
+  height: 2px;
+  left: 155px;
+  position: absolute;
+  top: 5337px;
+  width: 1177px;
+}
+
+.mcafee .text-135 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 3198px;
+}
+
+.mcafee .name-1 {
+  left: 154px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  position: absolute;
+  top: 4661px;
+  white-space: nowrap;
+}
+
+.mcafee .pie-baker {
+  left: 154px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 4709px;
+  white-space: nowrap;
+}
+
+.mcafee .text-136 {
+  left: 154px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3300px;
+  width: 1178px;
+}
+
+.mcafee .span {
+  letter-spacing: 0.08px;
+}
+
+.mcafee .text-137 {
+  left: 154px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7405px;
+  white-space: nowrap;
+  width: 1178px;
+}
+
+.mcafee .text-138 {
+  left: 160px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 11172px;
+  width: 1178px;
+}
+
+.mcafee .text-139 {
+  left: 160px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 11388px;
+  width: 1178px;
+}
+
+.mcafee .name-2 {
+  left: 471px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4406px;
+  width: 235px;
+}
+
+.mcafee .text-140 {
+  left: 822px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4406px;
+  width: 235px;
+}
+
+.mcafee .pain-points {
+  left: 1126px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4367px;
+  white-space: nowrap;
+}
+
+.mcafee .text-141 {
+  left: 1126px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4406px;
+  width: 235px;
+}
+
+.mcafee .biography-1 {
+  left: 471px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4847px;
+  white-space: nowrap;
+}
+
+.mcafee .goals-1 {
+  left: 822px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4847px;
+  white-space: nowrap;
+}
+
+.mcafee .name-3 {
+  left: 154px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  position: absolute;
+  top: 5141px;
+  white-space: nowrap;
+}
+
+.mcafee .music-instructor {
+  left: 154px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 5189px;
+  white-space: nowrap;
+}
+
+.mcafee .name-4 {
+  left: 471px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4886px;
+  width: 235px;
+}
+
+.mcafee .text-142 {
+  left: 822px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4886px;
+  width: 235px;
+}
+
+.mcafee .pain-points-1 {
+  left: 1126px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4847px;
+  white-space: nowrap;
+}
+
+.mcafee .text-143 {
+  left: 1126px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4886px;
+  width: 235px;
+}
+
+.mcafee .design-results {
+  left: 154px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 7320px;
+  white-space: nowrap;
+}
+
+.mcafee .vector-271 {
+  height: 2px;
+  left: 155px;
+  position: absolute;
+  top: 7372px;
+  width: 1177px;
+}
+
+.mcafee .conclusion {
+  left: 156px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 10487px;
+  white-space: nowrap;
+}
+
+.mcafee .vector-279 {
+  height: 2px;
+  left: 157px;
+  position: absolute;
+  top: 10539px;
+  width: 1177px;
+}
+
+.mcafee .validation {
+  left: 156px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  position: absolute;
+  top: 10572px;
+  white-space: nowrap;
+}
+
+.mcafee .closing-thoughts {
+  left: 156px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  position: absolute;
+  top: 11326px;
+  white-space: nowrap;
+}
+
+.mcafee .overlap-group5 {
+  align-items: flex-start;
+  background-color: #f7f9fa;
+  box-shadow: 0px 10px 30px #d0d0d040;
+  display: flex;
+  height: 474px;
+  left: 160px;
+  min-width: 918px;
+  position: absolute;
+  top: 10634px;
+}
+
+.mcafee .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 474px;
+  min-width: 612px;
+}
+
+.mcafee .overlap-group9 {
+  align-items: center;
+  background-color: #f8fafb;
+  display: flex;
+  flex-direction: column;
+  min-height: 474px;
+  width: 306px;
+}
+
+.mcafee .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 90px;
+  min-width: 306px;
+  padding: 33px 44px;
+}
+
+.mcafee .text-144 {
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 217px;
+  white-space: nowrap;
+}
+
+.mcafee .text-145 {
+  letter-spacing: 0.48px;
+  line-height: 19.2px;
+  margin-right: 35.0px;
+  margin-top: 60px;
+  min-height: 38px;
+  width: 207px;
+}
+
+.mcafee .text-146 {
+  letter-spacing: 0.48px;
+  line-height: 19.2px;
+  margin-right: 35.0px;
+  margin-top: 48px;
+  min-height: 38px;
+  width: 207px;
+}
+
+.mcafee .text-147 {
+  letter-spacing: 0.48px;
+  line-height: 19.2px;
+  margin-top: 48px;
+  min-height: 38px;
+  width: 242px;
+}
+
+.mcafee .overlap-group10 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 474px;
+  width: 306px;
+}
+
+.mcafee .overlap-group1 {
+  align-items: flex-end;
+  background-color: #f6c08d;
+  display: flex;
+  height: 90px;
+  justify-content: flex-end;
+  min-width: 306px;
+  padding: 33px 98px;
+}
+
+.mcafee .old-design {
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 109px;
+  white-space: nowrap;
+}
+
+.mcafee .percent {
+  letter-spacing: 0.90px;
+  line-height: 36.0px;
+  margin-left: 18.0px;
+  margin-top: 60px;
+  min-height: 36px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.mcafee .percent-1 {
+  letter-spacing: 0.90px;
+  line-height: 36.0px;
+  margin-left: 17.0px;
+  margin-top: 50px;
+  min-height: 36px;
+  min-width: 59px;
+  white-space: nowrap;
+}
+
+.mcafee .percent-2 {
+  letter-spacing: 0.90px;
+  line-height: 36.0px;
+  margin-top: 50px;
+  min-height: 36px;
+  min-width: 42px;
+  white-space: nowrap;
+}
+
+.mcafee .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 358px;
+  width: 306px;
+}
+
+.mcafee .overlap-group8 {
+  align-items: flex-end;
+  background-color: #8dd7f6;
+  display: flex;
+  height: 90px;
+  justify-content: flex-end;
+  min-width: 306px;
+  padding: 33px 94px;
+}
+
+.mcafee .new-design {
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 117px;
+  white-space: nowrap;
+}
+
+.mcafee .percent-3 {
+  letter-spacing: 0.90px;
+  line-height: 36.0px;
+  margin-right: 15.0px;
+  margin-top: 60px;
+  min-height: 36px;
+  min-width: 71px;
+  white-space: nowrap;
+}
+
+.mcafee .percent-4 {
+  letter-spacing: 0.90px;
+  line-height: 36.0px;
+  margin-right: 15.0px;
+  margin-top: 50px;
+  min-height: 36px;
+  min-width: 71px;
+  white-space: nowrap;
+}
+
+.mcafee .percent-5 {
+  letter-spacing: 0.90px;
+  line-height: 36.0px;
+  margin-right: 1.0px;
+  margin-top: 50px;
+  min-height: 36px;
+  min-width: 85px;
+  white-space: nowrap;
+}
+
+.mcafee .thank-you {
+  left: 158px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 11671px;
+  white-space: nowrap;
+}
+
+.mcafee .vector-279-1 {
+  height: 2px;
+  left: 159px;
+  position: absolute;
+  top: 11723px;
+  width: 1177px;
+}
+
+.mcafee .grinning-face-w-smiling-eyes-2 {
+  height: 30px;
+  left: 284px;
+  position: absolute;
+  top: 11660px;
+  width: 30px;
+}
+
+.mcafee .group-1040 {
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 903px;
+  position: absolute;
+  top: 154px;
+  width: 429px;
+}
+
+.mcafee .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-right: 37px;
+  min-width: 119px;
+}
+
+.mcafee .overlap-group2 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 33px;
+}
+
+.mcafee .work {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  min-width: 43px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.mcafee .work:hover {
+  transform: scale(0.9); 
+}
+
+.mcafee .overlap-group1-1 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 29px;
+}
+
+.mcafee .about {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  min-width: 51px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.mcafee .about:hover {
+  transform: scale(0.9); 
+}
+
+.mcafee .group-993 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-right: -2px;
+  min-width: 119px;
+}
+
+.mcafee .overlap-group-2 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 12px;
+}
+
+.mcafee .resume {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.mcafee .resume:hover {
+  transform: scale(0.9); 
+}
+
+.mcafee .group-997 {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 516px;
+  min-width: 410px;
+  position: absolute;
+  top: 12059px;
+}
+
+.mcafee .overlap-group3 {
+  height: 51px;
+  position: relative;
+  width: 408px;
+}
+
+.mcafee .text-148 {
+  left: 0;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+}
+
+.mcafee .sparkling-heart-1 {
+  height: 30px;
+  left: 141px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.mcafee .text-149 {
+  cursor: pointer;
+  left: 158px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  pointer-events: auto;
+  position: absolute;
+  text-decoration: underline;
+  top: 11804px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 334px;
+}
+
+.mcafee .text-149:hover {
+  transform: translate(0, -5px);
+}
+
+.mcafee .rectangle-1219-1 {
+  display: block;
+  height: 676px;
+  left: 154px;
+  position: absolute;
+  top: 1337px;
+  width: 1176px;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.mcafee .rectangle-1219-1.bp4-animate-enter10 {
+  animation: bp4-animate-enter10-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes bp4-animate-enter10-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.mcafee .overlap-group6 {
+  height: 594px;
+  left: 154px;
+  position: absolute;
+  top: 393px;
+  width: 1247px;
+}
+
+.mcafee .ddm-2-open-download-1 {
+  height: 548px;
+  left: 494px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 753px;
+}
+
+.mcafee .group-1009 {
+  background-image: url(../img/rectangle-1208-4@1x.png);
+  background-size: 100% 100%;
+  height: 262px;
+  left: 492px;
+  position: absolute;
+  top: 332px;
+  width: 740px;
+}
+
+.mcafee .text-151 {
+  left: 0;
+  letter-spacing: 0.54px;
+  line-height: 31.5px;
+  position: absolute;
+  top: 194px;
+  width: 614px;
+}
+
+.mcafee .span-1 {
+  letter-spacing: 0.10px;
+}
+
+.mcafee .span-2 {
+  color: var(--cape-cod);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: 0.10px;
+}
+
+.mcafee .text-150 {
+  left: 154px;
+  letter-spacing: 1.50px;
+  line-height: 60.0px;
+  position: absolute;
+  top: 357px;
+}
+
+.mcafee .x1-design {
+  left: 154px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 3772px;
+  white-space: nowrap;
+}
+
+.mcafee .text-152 {
+  left: 154px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3826px;
+  width: 258px;
+}
+
+.mcafee .x2-error-handling {
+  left: 484px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 3772px;
+  white-space: nowrap;
+}
+
+.mcafee .text-153 {
+  left: 484px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3826px;
+  width: 288px;
+}
+
+.mcafee .x3-guidance {
+  left: 844px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 3772px;
+  white-space: nowrap;
+}
+
+.mcafee .text-154 {
+  left: 844px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3826px;
+  width: 288px;
+}
+
+.mcafee .text-155 {
+  left: 154px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4130px;
+  width: 1127px;
+}
+
+.mcafee .text-156 {
+  left: 154px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 5370px;
+  width: 1127px;
+}
+
+.mcafee .text-157 {
+  left: 154px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 6183px;
+  width: 1127px;
+}
+
+.mcafee .ellipse-130 {
+  height: 233px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 4367px;
+  width: 233px;
+}
+
+.mcafee .ellipse-131 {
+  height: 233px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 4847px;
+  width: 233px;
+}
+
+.mcafee .overlap-group7 {
+  height: 641px;
+  left: 124px;
+  position: absolute;
+  top: 5502px;
+  width: 1150px;
+}
+
+.mcafee .chatbox-2-1 {
+  height: 420px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 635px;
+}
+
+.mcafee .receipt-w-steps-pt-1 {
+  height: 432px;
+  left: 629px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 521px;
+}
+
+.mcafee .x19-1 {
+  height: 420px;
+  left: 287px;
+  object-fit: cover;
+  position: absolute;
+  top: 221px;
+  width: 635px;
+}
+
+.mcafee .screen-shot-202-08-13-at-848-1 {
+  height: 873px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 6367px;
+  width: 1127px;
+}
+
+.mcafee .text-158 {
+  left: 154px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 7496px;
+  white-space: nowrap;
+}
+
+.mcafee .text-159 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 9360px;
+  white-space: nowrap;
+}
+
+.mcafee .error-overlay-2-download-1 {
+  height: 637px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 9412px;
+  width: 1132px;
+}
+
+.mcafee .x1-design-1 {
+  left: 156px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 10113px;
+  white-space: nowrap;
+}
+
+.mcafee .text-160 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10167px;
+  width: 258px;
+}
+
+.mcafee .x2-error-handling-1 {
+  left: 486px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 10113px;
+  white-space: nowrap;
+}
+
+.mcafee .text-161 {
+  left: 486px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10167px;
+  width: 288px;
+}
+
+.mcafee .x3-guidance-1 {
+  left: 846px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 10113px;
+  white-space: nowrap;
+}
+
+.mcafee .text-162 {
+  left: 846px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10167px;
+  width: 288px;
+}
+
+.mcafee .text-163 {
+  cursor: pointer;
+  left: 160px;
+  letter-spacing: 0.42px;
+  line-height: 24.5px;
+  position: absolute;
+  text-decoration: underline;
+  top: 11555px;
+  white-space: nowrap;
+  width: 398px;
+}
+
+.mcafee .group-2568 {
+  align-items: flex-start;
+  display: flex;
+  height: 520px;
+  left: 156px;
+  min-width: 1145px;
+  position: absolute;
+  top: 2425px;
+}
+
+.mcafee .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  min-height: 401px;
+  width: 439px;
+}
+
+.mcafee .before {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  margin-right: 8px;
+  min-height: 16px;
+  min-width: 61px;
+  white-space: nowrap;
+}
+
+.mcafee .receipt-1 {
+  height: 353px;
+  margin-top: 32px;
+  object-fit: cover;
+  width: 439px;
+}
+
+.mcafee .vector-281 {
+  height: 520px;
+  margin-left: 62px;
+  width: 2px;
+}
+
+.mcafee .flex-col-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -40px;
+  margin-left: 26px;
+  min-height: 560px;
+  width: 642px;
+}
+
+.mcafee .after {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  margin-left: 39px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.mcafee .overlap-group4 {
+  height: 532px;
+  margin-top: 12px;
+  position: relative;
+  width: 642px;
+}
+
+.mcafee .ddm-1-cart-orde-ry-expanded-2-1 {
+  height: 344px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 464px;
+}
+
+.mcafee .ddm-7-email-sent-1 {
+  height: 344px;
+  left: 178px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 464px;
+}
+
+.mcafee .text-164 {
+  left: 156px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3009px;
+  white-space: nowrap;
+  width: 1176px;
+}
+
+.mcafee .ddm-2-open-download-1-2 {
+  height: 857px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 8405px;
+  width: 1193px;
+}
+
+.mcafee .ddm-1-cart-orde-ry-expanded-3-2 {
+  height: 857px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 7548px;
+  width: 1193px;
+}
+/* screen - mcafee-mac */
+
+.mcafee-mac {
+  background-color: var(--white);
+  height: 11792px;
+  position: relative;
+  width: 1152px;
+}
+
+.mcafee-mac .overlap-group7-1 {
+  height: 541px;
+  left: 64px;
+  position: absolute;
+  top: 381px;
+  width: 1064px;
+}
+
+.mcafee-mac .ddm-2-open-download-2 {
+  height: 517px;
+  left: 354px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 710px;
+}
+
+.mcafee-mac .group-2569 {
+  background-image: url(../img/rectangle-1208-5@1x.png);
+  background-size: 100% 100%;
+  height: 232px;
+  left: 355px;
+  position: absolute;
+  top: 309px;
+  width: 693px;
+}
+
+.mcafee-mac .text-486 {
+  left: 0;
+  letter-spacing: 1.20px;
+  line-height: 48.0px;
+  position: absolute;
+  top: 0;
+  width: 433px;
+}
+
+.mcafee-mac .text-497 {
+  left: 0;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  position: absolute;
+  top: 186px;
+  width: 494px;
+}
+
+.mcafee-mac .span-3 {
+  letter-spacing: 0.08px;
+}
+
+.mcafee-mac .image-1-1 {
+  cursor: pointer;
+  height: 90px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 65px;
+}
+
+.mcafee-mac .group-1039 {
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  left: 633px;
+  position: absolute;
+  top: 154px;
+  width: 429px;
+}
+
+.mcafee-mac .group-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-right: 37px;
+  min-width: 119px;
+}
+
+.mcafee-mac .overlap-group2-1 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 33px;
+}
+
+.mcafee-mac .work-1 {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  min-width: 43px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.mcafee-mac .work-1:hover {
+  transform: scale(0.9); 
+}
+
+.mcafee-mac .overlap-group-3 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 29px;
+}
+
+.mcafee-mac .about-1 {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  min-width: 51px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.mcafee-mac .about-1:hover {
+  transform: scale(0.9); 
+}
+
+.mcafee-mac .group-993-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-right: -2px;
+  min-width: 119px;
+}
+
+.mcafee-mac .overlap-group1-2 {
+  align-items: flex-start;
+  border-radius: 50px;
+  display: flex;
+  height: 36px;
+  min-width: 117px;
+  padding: 6px 11px;
+}
+
+.mcafee-mac .resume-1 {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  min-height: 16px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.mcafee-mac .resume-1:hover {
+  transform: scale(0.9); 
+}
+
+.mcafee-mac .mc-afee-1 {
+  color: var(--thunderbird);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 700;
+  left: 64px;
+  letter-spacing: 1.20px;
+  line-height: 40px;
+  position: absolute;
+  top: 495px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .project-overview-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 1209px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .vector-282 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 1261px;
+  width: 997px;
+}
+
+.mcafee-mac .text-487 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 1964px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-488 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2016px;
+  width: 607px;
+}
+
+.mcafee-mac .start-date-1 {
+  left: 773px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1964px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mac .january-2021-1 {
+  left: 752px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 1991px;
+  width: 90px;
+}
+
+.mcafee-mac .tools-1 {
+  left: 774px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2071px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mac .figma-user-zoom-1 {
+  left: 753px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2098px;
+  width: 116px;
+}
+
+.mcafee-mac .edit-1 {
+  height: 16px;
+  left: 751px;
+  position: absolute;
+  top: 2071px;
+  width: 16px;
+}
+
+.mcafee-mac .duration-1 {
+  left: 958px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1964px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mac .address-1 {
+  left: 937px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 1991px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mac .hourglass-1 {
+  height: 16px;
+  left: 937px;
+  position: absolute;
+  top: 1964px;
+  width: 16px;
+}
+
+.mcafee-mac .team-1 {
+  left: 958px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2071px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mac .name-5 {
+  left: 937px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2098px;
+  width: 169px;
+}
+
+.mcafee-mac .user-1 {
+  height: 16px;
+  left: 937px;
+  position: absolute;
+  top: 2071px;
+  width: 16px;
+}
+
+.mcafee-mac .calendar-alt-1 {
+  height: 17px;
+  left: 751px;
+  position: absolute;
+  top: 1964px;
+  width: 16px;
+}
+
+.mcafee-mac .text-489 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 3048px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .vector-282-1 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 3100px;
+  width: 995px;
+}
+
+.mcafee-mac .text-490 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 4217px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .vector-282-2 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 4266px;
+  width: 994px;
+}
+
+.mcafee-mac .biography-2 {
+  left: 330px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4299px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .name-6 {
+  left: 64px;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 4593px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .pie-baker-1 {
+  left: 64px;
+  letter-spacing: 0.42px;
+  line-height: 14px;
+  position: absolute;
+  top: 4635px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .name-7 {
+  left: 330px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 4338px;
+  width: 235px;
+}
+
+.mcafee-mac .goals-2 {
+  left: 586px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4299px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-491 {
+  left: 586px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4338px;
+  width: 235px;
+}
+
+.mcafee-mac .pain-points-2 {
+  left: 842px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4299px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-492 {
+  left: 842px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4338px;
+  width: 235px;
+}
+
+.mcafee-mac .name-8 {
+  left: 64px;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 5024px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .music-instructor-1 {
+  left: 64px;
+  letter-spacing: 0.42px;
+  line-height: 14px;
+  position: absolute;
+  top: 5066px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .biography-3 {
+  left: 330px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4730px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .name-9 {
+  left: 330px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4769px;
+  width: 235px;
+}
+
+.mcafee-mac .goals-3 {
+  left: 586px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4730px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-493 {
+  left: 586px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4769px;
+  width: 235px;
+}
+
+.mcafee-mac .pain-points-3 {
+  left: 842px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 4730px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-494 {
+  left: 842px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4769px;
+  width: 235px;
+}
+
+.mcafee-mac .ideation-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 5160px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .vector-282-3 {
+  height: 1px;
+  left: 65px;
+  position: absolute;
+  top: 5214px;
+  width: 992px;
+}
+
+.mcafee-mac .design-results-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 7044px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .vector-282-4 {
+  height: 1px;
+  left: 65px;
+  position: absolute;
+  top: 7098px;
+  width: 990px;
+}
+
+.mcafee-mac .conclusion-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 9953px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .vector-282-5 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 10005px;
+  width: 983px;
+}
+
+.mcafee-mac .thank-you-1 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 11157px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .vector-282-6 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 11209px;
+  width: 983px;
+}
+
+.mcafee-mac .grinning-face-w-smiling-eyes-3 {
+  height: 30px;
+  left: 190px;
+  position: absolute;
+  top: 11146px;
+  width: 30px;
+}
+
+.mcafee-mac .text-495 {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  pointer-events: auto;
+  position: absolute;
+  text-decoration: underline;
+  top: 11290px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 358px;
+}
+
+.mcafee-mac .text-495:hover {
+  transform: translate(0, -5px);
+}
+
+.mcafee-mac .group-1026 {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 372px;
+  min-width: 410px;
+  position: absolute;
+  top: 11657px;
+}
+
+.mcafee-mac .overlap-group3-1 {
+  height: 51px;
+  position: relative;
+  width: 408px;
+}
+
+.mcafee-mac .text-496 {
+  left: 0;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+}
+
+.mcafee-mac .sparkling-heart-1-1 {
+  height: 30px;
+  left: 141px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.mcafee-mac .rectangle-1229-1 {
+  display: block;
+  height: 574px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 1326px;
+  width: 998px;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.mcafee-mac .rectangle-1229-1.bp3-animate-enter5 {
+  animation: bp3-animate-enter5-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes bp3-animate-enter5-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.mcafee-mac .group-2569-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 64px;
+  min-width: 103px;
+  position: absolute;
+  top: 935px;
+}
+
+.mcafee-mac .overlap-group4-1 {
+  height: 20px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 103px;
+}
+
+.mcafee-mac .fill-1-1 {
+  height: 12px;
+  left: 40px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.mcafee-mac .fill-2-1 {
+  height: 16px;
+  left: 51px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.mcafee-mac .fill-3-1 {
+  height: 16px;
+  left: 66px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.mcafee-mac .fill-4-1 {
+  height: 16px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.mcafee-mac .fill-5-1 {
+  height: 12px;
+  left: 74px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.mcafee-mac .fill-6-1 {
+  height: 12px;
+  left: 87px;
+  position: absolute;
+  top: 4px;
+  width: 13px;
+}
+
+.mcafee-mac .group-12-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+
+.mcafee-mac .group-2569-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 520px;
+  left: 64px;
+  min-width: 1046px;
+  position: absolute;
+  top: 2336px;
+}
+
+.mcafee-mac .flex-col-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  min-height: 401px;
+  width: 439px;
+}
+
+.mcafee-mac .before-1 {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  margin-right: 8px;
+  min-height: 16px;
+  min-width: 61px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .receipt-1-1 {
+  height: 353px;
+  margin-top: 32px;
+  object-fit: cover;
+  width: 439px;
+}
+
+.mcafee-mac .vector-281-1 {
+  height: 520px;
+  margin-left: 62px;
+  width: 2px;
+}
+
+.mcafee-mac .flex-col-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -40px;
+  margin-left: 26px;
+  min-height: 560px;
+  width: 543px;
+}
+
+.mcafee-mac .after-1 {
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  margin-left: 39px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .overlap-group5-1 {
+  height: 532px;
+  margin-top: 12px;
+  position: relative;
+  width: 543px;
+}
+
+.mcafee-mac .ddm-1-cart-orde-ry-expanded-2-1-1 {
+  height: 344px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 464px;
+}
+
+.mcafee-mac .ddm-7-email-sent-1-1 {
+  height: 344px;
+  left: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 464px;
+}
+
+.mcafee-mac .text-498 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2920px;
+  width: 980px;
+}
+
+.mcafee-mac .text-499 {
+  left: 66px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 3133px;
+}
+
+.mcafee-mac .text-500 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3235px;
+  width: 996px;
+}
+
+.mcafee-mac .x1-design-2 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 3707px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-501 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3761px;
+  width: 258px;
+}
+
+.mcafee-mac .x2-error-handling-2 {
+  left: 394px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 3707px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-502 {
+  left: 394px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3761px;
+  width: 288px;
+}
+
+.mcafee-mac .x3-guidance-2 {
+  left: 754px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 3707px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-503 {
+  left: 754px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3761px;
+  width: 288px;
+}
+
+.mcafee-mac .text-504 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4065px;
+  width: 996px;
+}
+
+.mcafee-mac .ellipse-131-1 {
+  height: 233px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 4299px;
+  width: 233px;
+}
+
+.mcafee-mac .ellipse-132 {
+  height: 233px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 4730px;
+  width: 233px;
+}
+
+.mcafee-mac .text-505 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 5247px;
+  width: 996px;
+}
+
+.mcafee-mac .overlap-group6-1 {
+  height: 585px;
+  left: 36px;
+  position: absolute;
+  top: 5380px;
+  width: 1047px;
+}
+
+.mcafee-mac .chatbox-2-2 {
+  height: 384px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 579px;
+}
+
+.mcafee-mac .receipt-w-steps-pt-2 {
+  height: 394px;
+  left: 573px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 474px;
+}
+
+.mcafee-mac .x19-2 {
+  height: 384px;
+  left: 261px;
+  object-fit: cover;
+  position: absolute;
+  top: 201px;
+  width: 579px;
+}
+
+.mcafee-mac .text-506 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 6008px;
+  width: 996px;
+}
+
+.mcafee-mac .screen-shot-202-08-13-at-848-2 {
+  height: 772px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 6192px;
+  width: 996px;
+}
+
+.mcafee-mac .text-507 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7131px;
+  white-space: nowrap;
+  width: 996px;
+}
+
+.mcafee-mac .text-508 {
+  left: 66px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 7222px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .ddm-1-cart-orde-ry-expanded-3-1 {
+  height: 711px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 7274px;
+  width: 990px;
+}
+
+.mcafee-mac .ddm-2-open-download-1-1 {
+  height: 710px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 8049px;
+  width: 988px;
+}
+
+.mcafee-mac .text-509 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 8913px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .error-overlay-2-download-2 {
+  height: 550px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 8965px;
+  width: 978px;
+}
+
+.mcafee-mac .x1-design-3 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 9579px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-510 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 9633px;
+  width: 258px;
+}
+
+.mcafee-mac .x2-error-handling-3 {
+  left: 394px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 9579px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-511 {
+  left: 394px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 9633px;
+  width: 288px;
+}
+
+.mcafee-mac .x3-guidance-3 {
+  left: 754px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 9579px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-512 {
+  left: 754px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 9633px;
+  width: 288px;
+}
+
+.mcafee-mac .validation-1 {
+  left: 64px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  position: absolute;
+  top: 10038px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .group-2606 {
+  height: 534px;
+  left: 34px;
+  position: absolute;
+  top: 10080px;
+  width: 978px;
+}
+
+.mcafee-mac .text-513 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10638px;
+  width: 996px;
+}
+
+.mcafee-mac .text-514 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10854px;
+  width: 996px;
+}
+
+.mcafee-mac .closing-thoughts-1 {
+  left: 64px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  position: absolute;
+  top: 10792px;
+  white-space: nowrap;
+}
+
+.mcafee-mac .text-515 {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0.42px;
+  line-height: 24.5px;
+  position: absolute;
+  text-decoration: underline;
+  top: 11041px;
+  white-space: nowrap;
+  width: 398px;
+}
+/* screen - mcafee-mobile */
+
+.mcafee-mobile {
+  background-color: var(--white);
+  height: 12863px;
+  overflow-x: hidden;
+  position: relative;
+  width: 320px;
+}
+
+.mcafee-mobile .image-1-2 {
+  cursor: pointer;
+  height: 47px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 34px;
+}
+
+.mcafee-mobile .text-546 {
+  left: 46px;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 182px;
+  width: 233px;
+}
+
+.mcafee-mobile .mc-afee-2 {
+  color: var(--thunderbird);
+  font-family: var(--font-family-poppins);
+  font-size: 24px;
+  font-weight: 700;
+  left: 46px;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 248px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .project-overview-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 1091px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .vector-284 {
+  height: 1px;
+  left: 36px;
+  position: absolute;
+  top: 1124px;
+  width: 232px;
+}
+
+.mcafee-mobile .start-date-2 {
+  left: 56px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1319px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mobile .january-2021-2 {
+  left: 35px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 1346px;
+  width: 90px;
+}
+
+.mcafee-mobile .duration-2 {
+  left: 181px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1319px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mobile .address-2 {
+  left: 160px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1346px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mobile .hourglass-2 {
+  height: 16px;
+  left: 160px;
+  position: absolute;
+  top: 1319px;
+  width: 16px;
+}
+
+.mcafee-mobile .calendar-alt-2 {
+  height: 17px;
+  left: 34px;
+  position: absolute;
+  top: 1319px;
+  width: 16px;
+}
+
+.mcafee-mobile .tools-2 {
+  left: 57px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1419px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mobile .figma-user-zoom-2 {
+  left: 36px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 1446px;
+  width: 116px;
+}
+
+.mcafee-mobile .edit-2 {
+  height: 16px;
+  left: 34px;
+  position: absolute;
+  top: 1419px;
+  width: 16px;
+}
+
+.mcafee-mobile .team-2 {
+  left: 181px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1420px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-mobile .name-10 {
+  left: 160px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 1447px;
+  width: 145px;
+}
+
+.mcafee-mobile .user-2 {
+  height: 16px;
+  left: 160px;
+  position: absolute;
+  top: 1420px;
+  width: 16px;
+}
+
+.mcafee-mobile .text-547 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 21.6px;
+  position: absolute;
+  top: 1591px;
+  width: 242px;
+}
+
+.mcafee-mobile .before-2 {
+  left: 34px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2190px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .overlap-group3-2 {
+  height: 346px;
+  left: -10px;
+  position: absolute;
+  top: 2515px;
+  width: 341px;
+}
+
+.mcafee-mobile .after-2 {
+  left: 44px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .ddm-1-cart-orde-ry-expanded-2-3 {
+  height: 225px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 295px;
+}
+
+.mcafee-mobile .ddm-7-email-sent-3 {
+  height: 225px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 121px;
+  width: 295px;
+}
+
+.mcafee-mobile .text-548 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 29.8px;
+  position: absolute;
+  top: 3038px;
+  width: 240px;
+}
+
+.mcafee-mobile .vector-284-1 {
+  height: 1px;
+  left: 34px;
+  position: absolute;
+  top: 3114px;
+  width: 245px;
+}
+
+.mcafee-mobile .text-549 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 29.8px;
+  position: absolute;
+  top: 5284px;
+}
+
+.mcafee-mobile .vector-284-2 {
+  height: 2px;
+  left: 34px;
+  position: absolute;
+  top: 5389px;
+  width: 244px;
+}
+
+.mcafee-mobile .name-11 {
+  left: 34px;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 5703px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .pie-baker-2 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 14px;
+  position: absolute;
+  top: 5743px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .biography-4 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 5781px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .name-12 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 5814px;
+  width: 235px;
+}
+
+.mcafee-mobile .goals-4 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 6066px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-550 {
+  left: 34px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 6105px;
+  width: 235px;
+}
+
+.mcafee-mobile .pain-points-4 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 6330px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-551 {
+  left: 34px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 6369px;
+  width: 235px;
+}
+
+.mcafee-mobile .name-13 {
+  left: 34px;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 6917px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .music-instructor-2 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 14px;
+  position: absolute;
+  top: 6957px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .biography-5 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 6995px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .name-14 {
+  left: 34px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7028px;
+  width: 235px;
+}
+
+.mcafee-mobile .goals-5 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 7352px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-552 {
+  left: 34px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7391px;
+  width: 235px;
+}
+
+.mcafee-mobile .pain-points-5 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 7634px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-553 {
+  left: 34px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7673px;
+  width: 235px;
+}
+
+.mcafee-mobile .ideation-2 {
+  left: 34px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 7988px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .vector-284-3 {
+  height: 2px;
+  left: 35px;
+  position: absolute;
+  top: 8022px;
+  width: 234px;
+}
+
+.mcafee-mobile .text-554 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 9841px;
+  width: 240px;
+}
+
+.mcafee-mobile .text-555 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 10429px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.mcafee-mobile .design-results-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 9643px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .vector-284-4 {
+  height: 2px;
+  left: 35px;
+  position: absolute;
+  top: 9676px;
+  width: 236px;
+}
+
+.mcafee-mobile .conclusion-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 11238px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .vector-284-5 {
+  height: 1px;
+  left: 36px;
+  position: absolute;
+  top: 11270px;
+  width: 242px;
+}
+
+.mcafee-mobile .validation-2 {
+  left: 34px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 11295px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .closing-thoughts-2 {
+  left: 34px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 11841px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .thank-you-2 {
+  left: 34px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  top: 12417px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .vector-284-6 {
+  height: 2px;
+  left: 36px;
+  position: absolute;
+  top: 12454px;
+  width: 236px;
+}
+
+.mcafee-mobile .grinning-face-w-smiling-eyes-5 {
+  height: 24px;
+  left: 153px;
+  position: absolute;
+  top: 12414px;
+  width: 24px;
+}
+
+.mcafee-mobile .text-556 {
+  cursor: pointer;
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  text-decoration: underline;
+  top: 12535px;
+  width: 238px;
+}
+
+.mcafee-mobile .group-1016 {
+  align-items: flex-start;
+  display: flex;
+  height: 36px;
+  left: 26px;
+  min-width: 270px;
+  position: absolute;
+  top: 12743px;
+}
+
+.mcafee-mobile .overlap-group-4 {
+  height: 36px;
+  position: relative;
+  width: 268px;
+}
+
+.mcafee-mobile .text-557 {
+  left: 0;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+}
+
+.mcafee-mobile .sparkling-heart-1-2 {
+  height: 20px;
+  left: 92px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.mcafee-mobile .rectangle-1241-1 {
+  display: block;
+  height: 147px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 1148px;
+  width: 256px;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.mcafee-mobile .rectangle-1241-1.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.mcafee-mobile .shape {
+  cursor: pointer;
+  height: 16px;
+  left: 255px;
+  position: absolute;
+  top: 47px;
+  width: 24px;
+}
+
+.mcafee-mobile .text-558 {
+  left: 46px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 304px;
+  width: 240px;
+}
+
+.mcafee-mobile .span-4 {
+  letter-spacing: 0.06px;
+}
+
+.mcafee-mobile .span-5 {
+  color: var(--cape-cod);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  letter-spacing: 0.06px;
+}
+
+.mcafee-mobile .group-2607 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 46px;
+  min-width: 103px;
+  position: absolute;
+  top: 756px;
+}
+
+.mcafee-mobile .overlap-group1-3 {
+  height: 20px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 103px;
+}
+
+.mcafee-mobile .fill-1-2 {
+  height: 12px;
+  left: 40px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.mcafee-mobile .fill-2-2 {
+  height: 16px;
+  left: 51px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.mcafee-mobile .fill-3-2 {
+  height: 16px;
+  left: 66px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.mcafee-mobile .fill-4-2 {
+  height: 16px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.mcafee-mobile .fill-5-2 {
+  height: 12px;
+  left: 74px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.mcafee-mobile .fill-6-2 {
+  height: 12px;
+  left: 87px;
+  position: absolute;
+  top: 4px;
+  width: 13px;
+}
+
+.mcafee-mobile .group-12-2 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+
+.mcafee-mobile .overlap-group2-2 {
+  height: 239px;
+  left: 8px;
+  position: absolute;
+  top: 804px;
+  width: 303px;
+}
+
+.mcafee-mobile .ddm-2-open-download-4 {
+  height: 231px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 303px;
+}
+
+.mcafee-mobile .group-2607-1 {
+  background-image: url(../img/rectangle-1208-7@2x.png);
+  background-size: 100% 100%;
+  height: 118px;
+  left: 9px;
+  position: absolute;
+  top: 121px;
+  width: 286px;
+}
+
+.mcafee-mobile .text-559 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 1659px;
+  width: 240px;
+}
+
+.mcafee-mobile .receipt-3 {
+  height: 213px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 2222px;
+  width: 265px;
+}
+
+.mcafee-mobile .text-560 {
+  color: var(--lynch);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 2869px;
+  width: 240px;
+}
+
+.mcafee-mobile .text-561 {
+  color: var(--ebony-clay);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 700;
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 27px;
+  position: absolute;
+  top: 3138px;
+  width: 240px;
+}
+
+.mcafee-mobile .text-562 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 3324px;
+  width: 240px;
+}
+
+.mcafee-mobile .x1-design-4 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 4292px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-563 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 4326px;
+  width: 258px;
+}
+
+.mcafee-mobile .x2-error-handling-4 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 4505px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-564 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 4539px;
+  width: 288px;
+}
+
+.mcafee-mobile .x3-guidance-4 {
+  left: 34px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 4760px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-565 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 4794px;
+  width: 288px;
+}
+
+.mcafee-mobile .text-566 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 5010px;
+  width: 240px;
+}
+
+.mcafee-mobile .ellipse-134 {
+  height: 233px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 5438px;
+  width: 233px;
+}
+
+.mcafee-mobile .ellipse-134-1 {
+  height: 233px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 6652px;
+  width: 233px;
+}
+
+.mcafee-mobile .text-567 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 8048px;
+  width: 240px;
+}
+
+.mcafee-mobile .overlap-group4-2 {
+  height: 547px;
+  left: 0;
+  position: absolute;
+  top: 8309px;
+  width: 319px;
+}
+
+.mcafee-mobile .chatbox-2-4 {
+  height: 205px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 295px;
+}
+
+.mcafee-mobile .x19-4 {
+  height: 219px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 317px;
+}
+
+.mcafee-mobile .receipt-w-steps-pt-4 {
+  height: 268px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 279px;
+  width: 319px;
+}
+
+.mcafee-mobile .text-568 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 8867px;
+  width: 240px;
+}
+
+.mcafee-mobile .screen-shot-202-08-13-at-848-4 {
+  height: 233px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 9314px;
+  width: 300px;
+}
+
+.mcafee-mobile .text-569 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 9701px;
+  width: 240px;
+}
+
+.mcafee-mobile .ddm-1-cart-orde-ry-expanded-3-3 {
+  height: 216px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 9901px;
+  width: 300px;
+}
+
+.mcafee-mobile .ddm-2-open-download-1-3 {
+  height: 216px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10149px;
+  width: 300px;
+}
+
+.mcafee-mobile .error-overlay-2-download-4 {
+  height: 169px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10471px;
+  width: 300px;
+}
+
+.mcafee-mobile .x1-design-5 {
+  left: 16px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 10672px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-570 {
+  left: 16px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 10706px;
+  width: 258px;
+}
+
+.mcafee-mobile .x2-error-handling-5 {
+  left: 16px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 10814px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-571 {
+  left: 16px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 10848px;
+  width: 288px;
+}
+
+.mcafee-mobile .x3-guidance-5 {
+  left: 16px;
+  letter-spacing: 0.54px;
+  line-height: 18px;
+  position: absolute;
+  top: 10935px;
+  white-space: nowrap;
+}
+
+.mcafee-mobile .text-572 {
+  left: 16px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 10969px;
+  width: 288px;
+}
+
+.mcafee-mobile .group-2606-2 {
+  height: 164px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 11347px;
+  width: 300px;
+}
+
+.mcafee-mobile .text-573 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 11535px;
+  width: 240px;
+}
+
+.mcafee-mobile .text-574 {
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 11885px;
+  width: 240px;
+}
+
+.mcafee-mobile .text-575 {
+  cursor: pointer;
+  left: 34px;
+  letter-spacing: 0.42px;
+  line-height: 24.5px;
+  position: absolute;
+  text-decoration: underline;
+  top: 12284px;
+  width: 240px;
+}
+/* screen - mcafee-tablet */
+
+.mcafee-tablet {
+  background-color: var(--white);
+  height: 12864px;
+  position: relative;
+  width: 768px;
+}
+
+.mcafee-tablet .image-1-3 {
+  cursor: pointer;
+  height: 90px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 65px;
+}
+
+.mcafee-tablet .text-516 {
+  left: 64px;
+  letter-spacing: 1.20px;
+  line-height: 40px;
+  position: absolute;
+  top: 396px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .mc-afee-3 {
+  color: var(--thunderbird);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 700;
+  left: 64px;
+  letter-spacing: 1.20px;
+  line-height: 40px;
+  position: absolute;
+  top: 454px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .project-overview-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 1491px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .vector-283 {
+  height: 2px;
+  left: 64px;
+  position: absolute;
+  top: 1549px;
+  width: 628px;
+}
+
+.mcafee-tablet .start-date-3 {
+  left: 86px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1977px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-tablet .january-2021-3 {
+  left: 65px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2004px;
+  width: 90px;
+}
+
+.mcafee-tablet .tools-3 {
+  left: 405px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1977px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-tablet .figma-user-zoom-3 {
+  left: 384px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2004px;
+  width: 116px;
+}
+
+.mcafee-tablet .edit-3 {
+  height: 23px;
+  left: 379px;
+  position: absolute;
+  top: 1977px;
+  width: 22px;
+}
+
+.mcafee-tablet .duration-3 {
+  left: 234px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1977px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-tablet .address-3 {
+  left: 213px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2004px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-tablet .hourglass-3 {
+  height: 22px;
+  left: 213px;
+  position: absolute;
+  top: 1978px;
+  width: 16px;
+}
+
+.mcafee-tablet .team-3 {
+  left: 579px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 1977px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.mcafee-tablet .name-15 {
+  left: 558px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2004px;
+  width: 169px;
+}
+
+.mcafee-tablet .user-3 {
+  height: 23px;
+  left: 555px;
+  position: absolute;
+  top: 1978px;
+  width: 22px;
+}
+
+.mcafee-tablet .calendar-alt-3 {
+  height: 23px;
+  left: 61px;
+  position: absolute;
+  top: 1978px;
+  width: 22px;
+}
+
+.mcafee-tablet .text-517 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 2164px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-518 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 2216px;
+  width: 640px;
+}
+
+.mcafee-tablet .before-3 {
+  left: 65px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 2536px;
+  width: 84px;
+}
+
+.mcafee-tablet .after-3 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  top: 3244px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .vector-283-1 {
+  height: 2px;
+  left: 64px;
+  position: absolute;
+  top: 3163px;
+  width: 663px;
+}
+
+.mcafee-tablet .text-519 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 4082px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .vector-283-2 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 4134px;
+  width: 662px;
+}
+
+.mcafee-tablet .text-520 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 5758px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .vector-283-3 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 5808px;
+  width: 638px;
+}
+
+.mcafee-tablet .biography-6 {
+  left: 400px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 5841px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .name-16 {
+  left: 134px;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 6135px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .pie-baker-3 {
+  left: 134px;
+  letter-spacing: 0.42px;
+  line-height: 14px;
+  position: absolute;
+  top: 6175px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .name-17 {
+  left: 400px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 5880px;
+  width: 235px;
+}
+
+.mcafee-tablet .goals-6 {
+  left: 132px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 6245px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-521 {
+  left: 132px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 6284px;
+  width: 235px;
+}
+
+.mcafee-tablet .pain-points-6 {
+  left: 400px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 6245px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-522 {
+  left: 400px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 6284px;
+  width: 247px;
+}
+
+.mcafee-tablet .name-18 {
+  left: 128px;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 6867px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .music-instructor-3 {
+  left: 128px;
+  letter-spacing: 0.42px;
+  line-height: 14px;
+  position: absolute;
+  top: 6907px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .biography-7 {
+  left: 400px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 6573px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .name-19 {
+  left: 400px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 6612px;
+  width: 235px;
+}
+
+.mcafee-tablet .goals-7 {
+  left: 128px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 6977px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-523 {
+  left: 128px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7016px;
+  width: 235px;
+}
+
+.mcafee-tablet .pain-points-7 {
+  left: 400px;
+  letter-spacing: 0.51px;
+  line-height: 17px;
+  position: absolute;
+  text-decoration: underline;
+  top: 6977px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-524 {
+  left: 400px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7016px;
+  width: 235px;
+}
+
+.mcafee-tablet .ideation-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 7326px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .vector-283-4 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 7376px;
+  width: 636px;
+}
+
+.mcafee-tablet .design-results-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 8786px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .vector-283-5 {
+  height: 1px;
+  left: 65px;
+  position: absolute;
+  top: 8837px;
+  width: 638px;
+}
+
+.mcafee-tablet .conclusion-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 11148px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .vector-283-6 {
+  height: 2px;
+  left: 65px;
+  position: absolute;
+  top: 11198px;
+  width: 638px;
+}
+
+.mcafee-tablet .validation-3 {
+  left: 64px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  position: absolute;
+  top: 11231px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .closing-thoughts-3 {
+  left: 64px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  position: absolute;
+  top: 11889px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .thank-you-3 {
+  left: 64px;
+  letter-spacing: 0.57px;
+  line-height: 19px;
+  position: absolute;
+  top: 12309px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .vector-283-7 {
+  height: 1px;
+  left: 65px;
+  position: absolute;
+  top: 12360px;
+  width: 638px;
+}
+
+.mcafee-tablet .grinning-face-w-smiling-eyes-4 {
+  height: 30px;
+  left: 190px;
+  position: absolute;
+  top: 12303px;
+  width: 30px;
+}
+
+.mcafee-tablet .text-525 {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 16px;
+  position: absolute;
+  text-decoration: underline;
+  top: 12441px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.mcafee-tablet .group-1028 {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 180px;
+  min-width: 410px;
+  position: absolute;
+  top: 12729px;
+}
+
+.mcafee-tablet .overlap-group-5 {
+  height: 51px;
+  position: relative;
+  width: 408px;
+}
+
+.mcafee-tablet .text-526 {
+  left: 0;
+  letter-spacing: 0.72px;
+  line-height: 24px;
+  position: absolute;
+  top: 3px;
+}
+
+.mcafee-tablet .sparkling-heart-1-3 {
+  height: 30px;
+  left: 141px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.mcafee-tablet .rectangle-1235-1 {
+  display: block;
+  height: 347px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 1582px;
+  width: 604px;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+.mcafee-tablet .rectangle-1235-1.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+transform: translate(0, 25px);
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.mcafee-tablet .material-icons-blackmenu {
+  background-image: url(../img/shape@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 27px;
+  left: 651px;
+  position: absolute;
+  top: 172px;
+  width: 41px;
+}
+
+.mcafee-tablet .text-527 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  position: absolute;
+  top: 526px;
+  width: 640px;
+}
+
+.mcafee-tablet .span-6 {
+  letter-spacing: 0.08px;
+}
+
+.mcafee-tablet .group-2570 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 64px;
+  min-width: 103px;
+  position: absolute;
+  top: 810px;
+}
+
+.mcafee-tablet .overlap-group1-4 {
+  height: 20px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 103px;
+}
+
+.mcafee-tablet .fill-1-3 {
+  height: 12px;
+  left: 40px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.mcafee-tablet .fill-2-3 {
+  height: 16px;
+  left: 51px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.mcafee-tablet .fill-3-3 {
+  height: 16px;
+  left: 66px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.mcafee-tablet .fill-4-3 {
+  height: 16px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.mcafee-tablet .fill-5-3 {
+  height: 12px;
+  left: 74px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.mcafee-tablet .fill-6-3 {
+  height: 12px;
+  left: 87px;
+  position: absolute;
+  top: 4px;
+  width: 13px;
+}
+
+.mcafee-tablet .group-12-3 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 103px;
+}
+
+.mcafee-tablet .overlap-group4-3 {
+  height: 521px;
+  left: 28px;
+  position: absolute;
+  top: 890px;
+  width: 709px;
+}
+
+.mcafee-tablet .ddm-2-open-download-3 {
+  height: 517px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 709px;
+}
+
+.mcafee-tablet .group-2570-1 {
+  background-image: url(../img/rectangle-1208-5@1x.png);
+  background-size: 100% 100%;
+  height: 232px;
+  left: 9px;
+  position: absolute;
+  top: 289px;
+  width: 693px;
+}
+
+.mcafee-tablet .receipt-2 {
+  height: 486px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 2598px;
+  width: 604px;
+}
+
+.mcafee-tablet .overlap-group2-3 {
+  height: 650px;
+  left: 34px;
+  position: absolute;
+  top: 3280px;
+  width: 664px;
+}
+
+.mcafee-tablet .ddm-1-cart-orde-ry-expanded-2-2 {
+  height: 415px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.mcafee-tablet .ddm-7-email-sent-2 {
+  height: 415px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 235px;
+  width: 565px;
+}
+
+.mcafee-tablet .text-528 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 3954px;
+  width: 640px;
+}
+
+.mcafee-tablet .text-529 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: absolute;
+  top: 4167px;
+  width: 640px;
+}
+
+.mcafee-tablet .text-530 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4304px;
+  width: 640px;
+}
+
+.mcafee-tablet .x1-design-6 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 4922px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-531 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4976px;
+  width: 258px;
+}
+
+.mcafee-tablet .x2-error-handling-6 {
+  left: 394px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 4922px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-532 {
+  left: 394px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 4976px;
+  width: 288px;
+}
+
+.mcafee-tablet .x3-guidance-6 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 5248px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-533 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 5302px;
+  width: 288px;
+}
+
+.mcafee-tablet .text-534 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 5582px;
+  width: 640px;
+}
+
+.mcafee-tablet .ellipse-133 {
+  height: 233px;
+  left: 130px;
+  object-fit: cover;
+  position: absolute;
+  top: 5841px;
+  width: 233px;
+}
+
+.mcafee-tablet .ellipse-133-1 {
+  height: 233px;
+  left: 128px;
+  object-fit: cover;
+  position: absolute;
+  top: 6573px;
+  width: 233px;
+}
+
+.mcafee-tablet .text-535 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7410px;
+  width: 640px;
+}
+
+.mcafee-tablet .overlap-group3-3 {
+  height: 388px;
+  left: 36px;
+  position: absolute;
+  top: 7552px;
+  width: 680px;
+}
+
+.mcafee-tablet .chatbox-2-3 {
+  height: 261px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 385px;
+}
+
+.mcafee-tablet .receipt-w-steps-pt-3 {
+  height: 268px;
+  left: 361px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 319px;
+}
+
+.mcafee-tablet .x19-3 {
+  height: 261px;
+  left: 164px;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 385px;
+}
+
+.mcafee-tablet .text-536 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 7967px;
+  width: 640px;
+}
+
+.mcafee-tablet .screen-shot-202-08-13-at-848-3 {
+  height: 483px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 8223px;
+  width: 623px;
+}
+
+.mcafee-tablet .text-537 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 8870px;
+  width: 640px;
+}
+
+.mcafee-tablet .text-538 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 8969px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .ddm-1-cart-orde-ry-expanded-3-2-1 {
+  height: 447px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 9021px;
+  width: 623px;
+}
+
+.mcafee-tablet .ddm-2-open-download-1-2-1 {
+  height: 447px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 9532px;
+  width: 623px;
+}
+
+.mcafee-tablet .text-539 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 10103px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .error-overlay-2-download-3 {
+  height: 349px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 10155px;
+  width: 621px;
+}
+
+.mcafee-tablet .x1-design-7 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 10568px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-540 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10622px;
+  width: 258px;
+}
+
+.mcafee-tablet .x2-error-handling-7 {
+  left: 394px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 10568px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-541 {
+  left: 394px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10622px;
+  width: 288px;
+}
+
+.mcafee-tablet .x3-guidance-7 {
+  left: 64px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 10774px;
+  white-space: nowrap;
+}
+
+.mcafee-tablet .text-542 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 10828px;
+  width: 288px;
+}
+
+.mcafee-tablet .group-2606-1 {
+  height: 346px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 11293px;
+  width: 634px;
+}
+
+.mcafee-tablet .text-543 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 11687px;
+  width: 640px;
+}
+
+.mcafee-tablet .text-544 {
+  left: 64px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 11951px;
+  width: 640px;
+}
+
+.mcafee-tablet .text-545 {
+  cursor: pointer;
+  left: 64px;
+  letter-spacing: 0.42px;
+  line-height: 24.5px;
+  position: absolute;
+  text-decoration: underline;
+  top: 12198px;
+  white-space: nowrap;
+  width: 398px;
+}
+@media screen and (max-width: 767px) {
+  .screen.mcafee { 
+    display: none;
+   }
+  .screen.mcafee-mac { 
+    display: none;
+   }
+  .screen.mcafee-tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1151px) {
+  .screen.mcafee { 
+    display: none;
+   }
+  .screen.mcafee-mac { 
+    display: none;
+   }
+  .screen.mcafee-mobile { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1152px) and (max-width: 1439px) {
+  .screen.mcafee { 
+    display: none;
+   }
+  .screen.mcafee-tablet { 
+    display: none;
+   }
+  .screen.mcafee-mobile { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.mcafee-mac { 
+    display: none;
+   }
+  .screen.mcafee-tablet { 
+    display: none;
+   }
+  .screen.mcafee-mobile { 
+    display: none;
+   }
+}
